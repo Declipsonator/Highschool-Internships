@@ -1,18 +1,18 @@
 [
     {
-        "name": "The PolCube CubeSat polarimeter",
+        "name": "NASA: The PolCube CubeSat polarimeter",
         "description": "A student will learn to run and apply the PolCube-MAPP algorithm to study sensitivity to spherical and non-spheroidal aerosols from the future PolCube satellite instrument. Polarimetry is a passive, remote-sensing technique that provides unparalleled capabilities for characterizing atmospheric aerosols. Aerosol particles in the atmosphere are highly variable and depend greatly upon their source (e.g., sea salt, yellow sand, Asian dust, and soot from power plants, diesel exhaust, fires, waste incineration, etc.). Knowledge of the fundamental properties of aerosols and their interactions with the atmosphere, hydrosphere, and biosphere are relevant to NASA and other Agencies (e.g., Army operations, infrastructure, and stewardship). In addition, poor air quality impacts the health and well-being of the public.",
         "location": null,
         "mode": [
             "virtual"
         ],
-        "duration": null,
+        "season": "summer",
         "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
+            "year": 2025,
+            "month": 2,
+            "day": 28
         },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000AKVJ2A4",
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000AKTj2AO",
         "opens_applications": "open",
         "grade_level": [
             11,
@@ -22,274 +22,23 @@
         "active": true
     },
     {
-        "name": "TEMPO Student Collaboration",
-        "description": "The Tropospheric Emissions: Monitoring of Pollution (TEMPO) Student Collaboration provides the opportunity for students to participate in atmospheric science research associated with NASA TEMPO satellite mission. Students will evaluate multiple small sensors for measurements of ozone, nitrogen dioxide, aerosol and UVB to determine their usefulness in providing ground truth for TEMPO. The small sensor measurements will be compared with each other and with research-grade instruments at the ground-based CAPABLE site. Students will design and conduct a study of the horizontal and temporal variability within and across TEMPO pixels of the air pollutants using the small sensors. Students will have the option for multi-summer participation at NASA Langley Research Center, and the possibility of continuing the research at their home institution during the school year. For more information about the NASA missions see http://science.nasa.gov/missions/tempo/ and http://capable.larc.nasa.gov.",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "duration": null,
-        "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000EGrJ2AW",
-        "opens_applications": "open",
-        "grade_level": [
-            9,
-            10,
-            11,
-            12
-        ],
-        "price": 0,
-        "active": true
-    },
-    {
-        "name": "AI/ML for Wind Prediction in Urban Environments (HS/UG)",
-        "description": "Advanced Exploration of Reliable Operation at Low Altitudes: Meteorology, Simulation and Technology (AEROcAST) is a Convergent Aeronautics Solutions (CAS) project with partnerships between AFRC, ARC, GRC, LARC, and Virginia Tech. Overall, the main goals of AEROcAST are building a weather sensing, modeling, and reasoning framework for enabling weather tolerant operations while demonstrating the desirability, viability, and feasibility of improving city flyability by altering the urban built environment to support Advanced Air Mobility (AAM). https://www.nasa.gov/aam\r\n\r\nModeling and displaying winds and turbulence for UAM flight environments and knowledge of weather conditions in the boundary layer and flight environment are critical gaps for ensuring safe operations. The student will support development with a NASA engineer/scientist to utilize wind velocities, temperature, pressure, and humidity from a database to apply and test state-of-the-art AI/ML methods for wind predictions in urban environments. Desired intern skills and expertise include python, matrix operations, statistics, and experience with AI/ML algorithms such as NN, GAN, cGAN, etc. and familiar with Pytorch or TensorFlow. One of the AI/ML approaches being explored is the use of Generative AI, specifically Conditional Generative Adversarial Networks (cGAN).  The student will develop testing, tuning and evaluation code for the cGAN method to support the production of accurate and insightful wind prediction results.  Where possible, this code will be generalized, such that, it can be reused with other AI/ML approaches for wind prediction. In addition, the student will conduct literature reviews to identify other candidate AI/ML algorithms for infusion into the aviation domain. The student will write or present their results to the AEROcAST team at the conclusion of their internship.",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "duration": null,
-        "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000EtSr2AK",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0,
-        "active": true
-    },
-    {
-        "name": "ESEA - Equity Strategies for Emerging Aviation",
+        "name": "NASA: ESEA - Equity Strategies for Emerging Aviation",
         "description": "Recent advances in electric propulsion and automation have enabled emerging aviation concepts that have the potential to radically change the way people and cargo move from place to place. Current startup companies in the United States are proposing:\r\n\r\n* passenger-carrying air vehicles that can move people between different urban areas 2-10 times faster than today\u2019s transportation, at lower environmental cost and with less noise \r\n\r\n* automated cargo vehicles that take advantage of today\u2019s underutilized small airports to ship goods regionally\r\n\r\n* emergency response operations that allow faster response times with less risk to emergency responders\r\n\r\nTraditionally, new modes of transportation in the United States have benefited upper social classes at the expense of underrepresented and lower socioeconomic classes. Several recent studies in transportation have explored this disparity, and research has highlighted factors that contribute to transportation equity. In this effort, we will examine this previous work as it applies to the broader, current transportation system. First, we will use our literature search to highlight and educate the current emerging aviation stakeholders on equity strategies that are directly applicable to these novel operations. Second, we will use our literature research to make informed recommendations for experiments and data collection that will increase our understanding about how these new aviation concepts can be encouraged to provide equity as an emergent property.",
         "location": "California",
         "mode": [
             "in-person",
             "virtual"
         ],
-        "duration": null,
+        "season": "summer",
         "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
+            "year": 2025,
+            "month": 2,
+            "day": 28
         },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0B3d0000025CHBEA2",
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000Bmnh2AC",
         "opens_applications": "open",
         "grade_level": [
             11,
-            12
-        ],
-        "price": 0,
-        "active": true
-    },
-    {
-        "name": "Spacesuit Knowledge Capture Assistant",
-        "description": "Note- This is an in-person internship at Johnson Space Center in Houston, TX.\r\n\r\nThe Spacesuit Knowledge Capture (SKC) assistant will interact with the SKC manager, administrator, and team to assist with the following tasks as needed: \r\n1.       Assist in coordinating and preparing SKC events, which involve the following tasks: \r\n     o\tAssist in coordinating spacesuit and related subject-matter experts to be recorded while sharing spacesuit-related knowledge\r\n     o\tAssist in quality reviews of speakers\u2019 presentation charts, synopses, and biographies \r\n     o\tAssist in securing recording studios, props, photography, and videography \r\n     o\tAssist in advertising SKC events \r\n     o\tAssist in SKC event preparation (e.g. setting up conference rooms and studios, ensuring that electronic presentations, props, light-weight furniture, and other essentials are in place prior to the event recording)\r\n2.      Assist in developing, organizing, and presenting spacesuit knowledge curriculums \r\n3.\tAssist in archiving, retrieving, and distributing knowledge captured (electronic and hardcopy records)\r\n4.\tAssist in reaching out to other NASA Centers, JSC divisions, and outside entities to share knowledge \r\n5.\tAssist in contacting (via phone or Outlook or both) individuals to obtain a status of tasks or request information",
-        "location": "Texas",
-        "mode": [
-            "in-person"
-        ],
-        "duration": null,
-        "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0B3d0000028MhIEAU",
-        "opens_applications": "open",
-        "grade_level": [
-            9,
-            10,
-            11,
-            12
-        ],
-        "price": 0,
-        "active": true
-    },
-    {
-        "name": "Studying aerosols and clouds via machine learning",
-        "description": "Aerosols, such as particulate pollution, dust, smoke and sea salt, play important roles in Earth's radiative balance, cloud and precipitation formation, fertilization of ecosystems, air quality and human health. Retrieval of aerosol parameters from space-based spectral radiometric measurements has been based on physical understanding of radiative transfer, particles and the environment that these particles inhabit. For decades, physically-based methods have produced a suite of highly useful products. However, physically-based methods work best when their assumptions are accurate, and tend to fail in situations where the real world and retrieval assumptions do not match well. Especially difficult for aerosol retrieval algorithms is the separation of aerosol from clouds, identifying the type of aerosol from space and parameterizing the surface reflectance beneath the aerosol layers. In this project, a group with experience in physically-based aerosol remote sensing wants to explore Machine Learning (ML) techniques with a student experienced in Data Science and ML. Possible projects might involve applying ML to one component of the retrieval, such as separating aerosols from clouds, or detecting aerosol types from multispectral and multi-temporal satellite imagery.",
-        "location": "Maryland",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "duration": null,
-        "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0B3d000002A5woEAC",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0,
-        "active": true
-    },
-    {
-        "name": "AI & ML for Air Traffic Management",
-        "description": "This project explores the use of innovative and emerging applications of AI/ML (e.g., Natural Language Processing) to digitize and analyze heritage air traffic management (ATM) datasets. Given the rich volume of available text, audio and track data and the complexity of the problem space, this is an ideal candidate for the application of machine learning. The research is focused on optimizing current day flight operations e.g., to perform runway configuration management and analyze Traffic Management Initiatives (TMIs). The work will help build semi-automated recommender services that can assist complex decision making currently made by FAA specialists and subject matter experts. This internship can be onsite or remote.",
-        "location": "California",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "duration": null,
-        "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0B3d000002AeFnEAK",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0,
-        "active": true
-    },
-    {
-        "name": "Materials Processing for Space Nuclear Propulsion",
-        "description": "This hands-on opportunity involves processing, characterizing, and testing  novel materials for NASA Space Nuclear Propulsion applications. Experience with nuclear materials in not a requirement. \r\nThe EM32 Advanced Processes team is looking for a few candidates to fabricate fuel and surrogate fuel materials into elements. The elements will then be characterized and tested in our onsite laboratories. Safety is our number one priority. All necessary training will be provided. The opportunity may involve a variety of materials processing techniques including powder processing and sintering. The opportunity will expose the candidate to materials characterization and testing techniques such as SEM, XRD, hardness mapping, tensile testing, and metallurgical preparation, polishing, and analysis. The description above is general, as the actual work performed will vary from day-to-day in a dynamic team environment. \r\n\r\nThe applicant should possess a general understanding of materials engineering and be able to implement fundamental engineering concepts in real world applications. The applicant should be adept at hands-on, laboratory and/or mechanical tasks and have a passion for getting dirty from hard work! Nuclear materials processing is a plus. \r\n\r\nCandidate must be an excellent communicator with strong speaking, writing, and presenting skills. Candidate must be a self-starter who takes initiative to complete tasks on time with reasonable supervision. Candidate will demonstrate the ability to work independently as well as in small, multi-disciplined teams. \r\n\r\nThe applicant should be proficient in the MS Office suite including. Excel, PowerPoint, and Word. Applicant should be familiar with basic CAD software like Solid Edge, Solid Works or Pro Engineer.\r\n\r\nKey words:\r\nMaterials Science, Engineering, Nuclear, laboratory, hands-on, powders, ceramics, carbides, fuel, Excel, Power Point, Word, Mechanical design, machining, welding, communicator, speaking, writing, presenting, initiative, humility, team, multi-disciplined, CAD.",
-        "location": "Alabama",
-        "mode": [
-            "in-person"
-        ],
-        "duration": null,
-        "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0B3d000002B4Y7EAK",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0,
-        "active": true
-    },
-    {
-        "name": "HESTO - Technology Database Development",
-        "description": "The HEliophysics Strategic Technology Office (HESTO) is currently developing a database to track data on it's large portfolio (100+ projects) of technology development projects. This intership will support HESTO with development of this new system, and support data migration from the previous technology database to this new system.",
-        "location": "Virginia",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "duration": null,
-        "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0B3d000002BWq8EAG",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0,
-        "active": true
-    },
-    {
-        "name": "Ocean satellite remote sensing",
-        "description": "Description: NASA\u2019s ocean biology and biogeochemistry program is seeking a high school intern to help support the program in a variety of tasks related to the program and to the PACE mission. Specific project plans will be decided upon with the mentor after a discussion of the student\u2019s interests and expertise. Interest in marine science is essential but no prior research experience is required. \r\n\r\nAbout us: NASA's Ocean Biology and Biogeochemistry (OBB) program focuses on describing, understanding, and predicting the biological, ecological, and biogeochemical regimes of the upper ocean, as determined by observation of aquatic optical properties using remote sensing data, including those from space, aircraft, and other suborbital platforms. The program supports several Federal research objectives, e.g., the U.S. Global Change Research Program, which address aspects of Carbon Cycle and Ecosystem research from space, with a focus on understanding Earth\u2019s aquatic environment and its role within the Earth System.",
-        "location": "District of Columbia (D.C.)",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "duration": null,
-        "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0B3d000002BeFSEA0",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0,
-        "active": true
-    },
-    {
-        "name": "Virtual - Deep Learning Classification of Kepler/TESS Transit Signals",
-        "description": "Kepler and TESS are critical missions to increase our understanding of how common earth-like planets and the chances of alien life are. These telescopes work based on transit photometry and their pipelines return a list of threshold crossing events (TCEs) whose light signature resemble a planet. However, not all TCEs are planet orbiting a star and they could be due instrument noise or other astrophysical phenomena. We have been exploring deep learning technology for automatic classification of TCEs and finding planets from non-TCEs. Using our in-house tools, we have been able to identify new planets (subject to confirmation). We also have identified multiple ways to improve the existing classifiers and we are looking for interns who can explore these new ways. This internship opportunity is very rewarding because the result will lead to the discovery of new exo-planets. We will also publish the results in prestigious journals. This is a great opportunity to get some visibility. Potential interns needs to know how to program in python and write deep learning codes. The intern is expected to help us developing parts of this project in Python. Tools we use for this project are scikit-learn and Keras (and TensorFlow). **** PLEASE DO NOT APPLY IF YOU DO NOT HAVE ANY EXPERIENCE WITH DEEP LEARNING MODELS AND THESE TOOLS. ****\r\n\r\n**Please note, if you are selected for participation in an internship, you will be required to visit a NASA center or facility for fingerprinting and identity verification. Accommodations can be requested for selected candidates with disabilities. NASA Centers and Facilities - https://science.nasa.gov/about-us/nasa-centers**",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "duration": null,
-        "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0B3d000002BliREAS",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0,
-        "active": true
-    },
-    {
-        "name": "Virtual - JWST Cosmic Ray Rejection using ML",
-        "description": "With the launch of James Webb Space Telescope (JWST), a new era of astronomical discoveries was made possible. One bottleneck in the effective utilization of JWST and similar future telescopes, however, is the removal of data contaminated with cosmic rays that hit the detectors. Part of the data preprocessing and reduction involves dealing with noise generated by processes that include dark current, readout, and cosmic rays. During the readout process, successive frames are averaged and aggregated using an up-the-ramp readout scheme. For each pixel, the increase from one frame to the other follows a given rate, but cosmic ray hits lead to a sudden jump (see Figure 1 in [1] for a generic illustration of the up-the-ramp readout scheme). Current methods involve a manual examination of different rejection thresholds to find one that provides the best results for the intended observation (see [2] for a description of the current algorithm used in the JWST pipeline to detect these jumps). This time-consuming and inefficient process slows down the returned science.\r\nThe goal of this project is to design and apply a machine learning algorithm in an unsupervised setting that can learn from the data to detect these jumps between frames and thus identify pixels hit by cosmic ray jumps. The intern will work closely with the mentor and other collaborators, discussing/implementing possible techniques to solve this challenge. The candidate must be proficient in Python and have experience with libraries related to machine learning, deep learning, and data processing such as TensorFlow, Keras, Scikit-learn, SciPy. Experience dealing with astronomical data and high-performance computing are preferred.\r\n \r\nReferences\r\n \r\n[1] https://jwst-docs.stsci.edu/understanding-exposure-times#UnderstandingExposureTimes-uptheramp, accessed 10/20/2022\r\n[2] https://jwst-pipeline.readthedocs.io/en/stable/jwst/jump/description.html, accessed 10/20/2022\r\n\r\n*Make sure to apply only if you are fluent in Python coding and has experience in deep learning. Otherwise, there is no chance.\r\n\r\n**Please note, if you are selected for participation in an internship, you will be required to visit a NASA center or facility for fingerprinting and identity verification. Accommodations can be requested for selected candidates with disabilities. NASA Centers and Facilities - https://science.nasa.gov/about-us/nasa-centers**",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "duration": null,
-        "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0B3d000002BligEAC",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0,
-        "active": true
-    },
-    {
-        "name": "Communications Internship",
-        "description": "The Public Affairs Intern will work on content creation and engagement in support of NASA Langley\u2019s communications team. This experience will allow students to see the innerworkings of a communications organization from multiple facets.\r\nDuties include but are not limited to:\r\n\u2022 Content creation, editing and review.\r\n\u2022 Research and analysis.\r\n\u2022 Event planning support.\r\n\u2022 Creating, organizing and distributing informational materials, exhibits and artifacts.\r\n\u2022 Database management in support of the speaker\u2019s bureau and outreach events.\r\n\u2022 Working with exhibits.\r\n\u2022 Assist with business operations.\r\n\r\nAs an intern, you will receive experience and mentoring from communications professionals at Langley Research Center, and an understanding of how to communicate to and excite audiences about aerospace missions at NASA.",
-        "location": "Virginia",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "duration": null,
-        "deadline": {
-            "year": 2024,
-            "month": 8,
-            "day": 23
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000006CUj2AM",
-        "opens_applications": "open",
-        "grade_level": [
             12
         ],
         "price": 0,

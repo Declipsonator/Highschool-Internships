@@ -2,15 +2,18 @@ def update_readme(internships):
     lines = []
     
     for internship in internships:
-        line = "| {} | {} | {} | {} | {} | {} | {} | {} | {} | {} |".format(
-            internship["name"],
-            internship["description"].replace("\n", "<br/>").replace("\r", "<br/>"),
-            internship["location"],
-            "/".join(internship["mode"]),
-            internship["duration"],
+        description = internship["description"] if len(internship["description"]) < 100 else internship["description"][:100] + "..."
+        season = internship["season"]
+        season = "N/A" if season is None else (season.replace("spring", "Spring").replace("summer", "Summer").replace("fall", "Fall"))
+
+        line = "| {} | {} | {} | {} | {} | {} | {} | {} | {} |".format(
+            "[" + str(internship["name"]) + "]" + "(" + str(internship["link"]) + ")",
+            description.replace("\n", "<br/>").replace("\r", "<br/>"),
+            internship["location"] if internship["location"] is not None else "N/A",
+            "<br/>".join(internship["mode"]).replace("-", "&#8209;").replace("in-person", "In-person").replace("virtual", "Virtual").replace("hybrid", "Hybrid"),
+            season,
             "{}/{}/{}".format(internship["deadline"]["month"], internship["deadline"]["day"], internship["deadline"]["year"]),
-            "[Link]({})".format(internship["link"]),
-            internship["opens_applications"],
+            internship["opens_applications"].replace("open", "Open"),
             ", ".join([str(grade) for grade in internship["grade_level"]]),
             internship["price"],
         )

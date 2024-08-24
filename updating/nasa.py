@@ -21,16 +21,16 @@ def get_nasa_internships():
         if not any(str(grade) in internship["AcademicLevel__c"] for grade in [9, 10, 11, 12]):
             continue
 
-        name = internship["Name"]
+        name ="NASA: " +  internship["Name"]
         description = internship["ProjectDescription__c"]
         location = internship["Searchable_State__c"] if "In-person" in internship["ActivityType__c"] else None
         mode = []
         for mode_type in internship["ActivityType__c"].replace(" ", "").lower().split("/"):
             mode.append(mode_type)
-
-
-        duration = None
         date_object = datetime.strptime(internship["RegistrationEndDate__c"], "%Y-%m-%d")
+
+
+        season = "spring" if date_object.month in [7, 8, 9] else "summer" if date_object.month in [12, 1, 2, 3] else "fall" if date_object.month in [4, 5, 6] else None
         deadline = {"year": date_object.year, "month": date_object.month, "day": date_object.day}
         link = "https://stemgateway.nasa.gov/s/course-offering/{}".format(internship["Id"])
         opens_applications = "open"
@@ -42,7 +42,7 @@ def get_nasa_internships():
             "description": description,
             "location": location,
             "mode": mode,
-            "duration": duration,
+            "season": season,
             "deadline": deadline,
             "link": link,
             "opens_applications": opens_applications,

@@ -1,10 +1,10 @@
-# High School Internships List
+# High School Internships Directory
 
-This is a list of internships that high school students can apply to. The list is divided into categories based on the subjects that the internships are related to.
+Welcome to the High School Internships Directory, a curated list of opportunities for high school students to gain valuable experience across various fields. The internships are organized by subject areas, making it easier for students to find opportunities that align with their interests and goals.
 
-In the case that an internship needs to be updated or removed, please open an issue.
+If you find that an internship needs to be updated or removed, please help us maintain the accuracy of this directory by [opening an issue](https://github.com/Declipsonator/Highschool-Internships/issues).
 
-## List of Internships
-| Name | Description | Location | Mode | Duration | Deadline                            | Link | Opens Applications | Grade Level  | Price |
-|------|-------------|----------|------|----------|-------------------------------------|------|--------------------|--------------|-------|
+## Internship Opportunities
+| Name | Description | Location  | Mode | Season | Application Deadline | Application Opens | Eligible Grades | Cost |
+|------|-------------|:---------:|:----:|:------:|:--------------------:|:-----------------:|:---------------:|:----:|
 <!-- INTERNSHIPS -->
