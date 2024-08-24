@@ -29,11 +29,12 @@ jobs:
         run: |
           python3 --version
           cd updating
-          python3 main.py 
+          python3 -m pip install -r requirements.txt
+          python3 main.py
       - name: Commit to the repo
         run: |
           git config user.name "MAINTENANCE INTERN"
           git config user.email ""
           git add .
-          git commit -m 'Update README' || echo
+          git commit -m 'Refresh Internships' || echo
           git push -f origin main
