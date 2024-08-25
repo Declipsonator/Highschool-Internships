@@ -18,8 +18,7 @@
             11,
             12
         ],
-        "price": 0,
-        "active": true
+        "price": 0
     },
     {
         "name": "NASA: ESEA - Equity Strategies for Emerging Aviation",
@@ -41,7 +40,6 @@
             11,
             12
         ],
-        "price": 0,
-        "active": true
+        "price": 0
     }
 ]

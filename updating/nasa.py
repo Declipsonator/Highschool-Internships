@@ -48,7 +48,6 @@ def get_nasa_internships():
             "opens_applications": opens_applications,
             "grade_level": grade_level,
             "price": price,
-            "active": True,
         })
 
     return highschool_internships

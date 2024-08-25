@@ -10,7 +10,7 @@ def update_readme(internships):
             "[" + str(internship["name"]) + "]" + "(" + str(internship["link"]) + ")",
             description.replace("\n", "<br/>").replace("\r", "<br/>"),
             internship["location"] if internship["location"] is not None else "N/A",
-            "<br/>".join(internship["mode"]).replace("-", "&#8209;").replace("in-person", "In-person").replace("virtual", "Virtual").replace("hybrid", "Hybrid"),
+            "<br/>".join(internship["mode"]).replace("in-person", "In&#8209;person").replace("virtual", "Virtual").replace("hybrid", "Hybrid"),
             season,
             "{}/{}/{}".format(internship["deadline"]["month"], internship["deadline"]["day"], internship["deadline"]["year"]),
             internship["opens_applications"].replace("open", "Open"),
