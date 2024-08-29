@@ -41,5 +41,47 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Independent Analysis of Control System Hardware",
+        "description": "This part-time internship opportunity provides an advanced high school student with the opportunity to examine today\u2019s control systems and provide an independent analysis of their capabilities and features.  The project will focus on the different control systems NASA uses such as Allen Bradley, MatLab, Opto22, and LataPanda, but it is anticipated that all commercial control systems will be examined in this opportunity for PLC, PAC, PID, and APC systems. The objective is to create a list of advantages and disadvantages for the industry control system types to include metrics in cost, functionality, replaceability, modularity, and reliability.",
+        "location": null,
+        "mode": [
+            "virtual"
+        ],
+        "season": "spring",
+        "deadline": {
+            "year": 2024,
+            "month": 9,
+            "day": 13
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000GoLp2AK",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Materials Processing for Space Nuclear Propulsion",
+        "description": "This hands-on opportunity involves processing, characterizing, and testing  novel materials for NASA Space Nuclear Propulsion applications. Experience with nuclear materials in not a requirement. \r\nThe EM32 Advanced Processes team is looking for a few candidates to fabricate fuel and surrogate fuel materials into elements. The elements will then be characterized and tested in our onsite laboratories. Safety is our number one priority. All necessary training will be provided. The opportunity may involve a variety of materials processing techniques including powder processing and sintering. The opportunity will expose the candidate to materials characterization and testing techniques such as SEM, XRD, hardness mapping, tensile testing, and metallurgical preparation, polishing, and analysis. The description above is general, as the actual work performed will vary from day-to-day in a dynamic team environment. \r\n\r\nThe applicant should possess a general understanding of materials engineering and be able to implement fundamental engineering concepts in real world applications. The applicant should be adept at hands-on, laboratory and/or mechanical tasks and have a passion for getting dirty from hard work! Nuclear materials processing is a plus. \r\n\r\nCandidate must be an excellent communicator with strong speaking, writing, and presenting skills. Candidate must be a self-starter who takes initiative to complete tasks on time with reasonable supervision. Candidate will demonstrate the ability to work independently as well as in small, multi-disciplined teams. \r\n\r\nThe applicant should be proficient in the MS Office suite including. Excel, PowerPoint, and Word. Applicant should be familiar with basic CAD software like Solid Edge, Solid Works or Pro Engineer.\r\n\r\nKey words:\r\nMaterials Science, Engineering, Nuclear, laboratory, hands-on, powders, ceramics, carbides, fuel, Excel, Power Point, Word, Mechanical design, machining, welding, communicator, speaking, writing, presenting, initiative, humility, team, multi-disciplined, CAD.",
+        "location": "Alabama",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000J32D2AS",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
