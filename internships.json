@@ -62,5 +62,28 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Pneumatic Shock System \u2013 Methods and Development",
+        "description": "Assist the development and documentation of the capability and setups needed to meet the various lunar/mars mission shock levels quickly, efficiently and safely with the Pneumatic Shock Simulator (PSS). Also, to conduct additional near field shock testing for application in instances the levels are past the PSS\u2019s capabilities.\r\n\r\n[NOTE: If you are selected for participation in an internship, you will be required to visit a NASA center or facility for fingerprinting and identity verification. Accommodations can be requested for selected candidates with disabilities. NASA Centers and Facilities - https://science.nasa.gov/about-us/nasa-centers]",
+        "location": null,
+        "mode": [
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000VUD72AO",
+        "opens_applications": "open",
+        "grade_level": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
