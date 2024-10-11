@@ -85,5 +85,25 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Ground Safety Intern",
+        "description": "Shadow and perform hazard analysis of systems at WFF with experienced ground safety analysts and engineers, and review several simple hazard systems for final evaluation and approval.  After gaining understanding of how hazards are reviewed and planned for, consider how this process can be partially supplemented with Artificial Intelligence (AI).  Candidate should be familiar with AI tools, languages, and be able to conduct sample evaluations on a close internal network.  Enrolled in an AI program is preferred but not required.  \r\nWork environment is in office and in the field such as rocket integration facility and launch pads.  Walking up and down between piping runs are expected.",
+        "location": "Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000lVDF2A2",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
     }
 ]
