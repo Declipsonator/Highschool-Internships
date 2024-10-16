@@ -105,5 +105,25 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Lidar Design & Development",
+        "description": "Are you a forward-thinking and ambitious individual ready to embark on a groundbreaking journey in the realm of Mechanical Engineering? We are thrilled to offer an extraordinary opportunity to join our team and be at the forefront of innovation. As part of this exciting venture, you will be instrumental in crafting Lidar Systems using state-of-the-art Additive Manufacturing techniques and cutting-edge lattice networks. This unique position invites you to push the boundaries of what's possible in the world of mechanical engineering, contributing to the development of revolutionary technologies that will shape the future. If you are passionate about pushing the limits of engineering and eager to make a significant impact, we invite you to be a key player in redefining the landscape of Lidar Systems. Seize the chance to unleash your creativity and expertise on projects that will redefine the industry!\r\n\r\nWe are seeking a highly motivated and enthusiastic student to join our dynamic team as a Mechanical Engineering Intern. This internship opportunity will provide hands-on experience in cutting-edge projects related to Lidar Systems, Additive Manufacturing, and Lattice Metal Systems. As a key member of our engineering team, you will contribute to the development and advancement of innovative technologies in the field of mechanical engineering.\r\n\r\nResponsibilities:\r\nLidar Systems Development:\r\n\u2022\tCollaborate with cross-functional teams to design and optimize mechanical components for Lidar systems.\r\n\u2022\tConduct research on Lidar technologies and contribute to the development of next-generation systems.\r\n\u2022\tPerform testing and analysis to ensure the performance and reliability of Lidar components.\r\n\r\nAdditive Manufacturing:\r\n\u2022\tWork on projects involving additive manufacturing techniques, including 3D printing, to produce complex and optimized mechanical structures.\r\n\u2022\tParticipate in the selection of materials and processes for additive manufacturing applications.\r\n\u2022\tAssist in the design and prototyping of components using additive manufacturing methods.\r\n\r\nLattice Metal Systems:\r\n\u2022\tContribute to the design and optimization of lattice metal structures for various engineering applications.\r\n\u2022\tCollaborate with the engineering team to conduct simulations and analysis of lattice structures.\r\n\u2022\tWork on projects aimed at exploring the mechanical properties and applications of lattice metal systems.\r\n\r\nQualifications:\r\n\u2022\tCurrently enrolled in a bachelor\u2019s program in Mechanical Engineering or a related field.\r\n\u2022\tHigh school students may apply. \r\n\u2022\tStrong understanding of mechanical engineering principles and fundamentals.\r\n\u2022\tProficiency in CAD software (e.g., SolidWorks, AutoCAD) for 3D modeling and design.\r\n\u2022\tKnowledge or coursework related to Lidar Systems, Additive Manufacturing, and Lattice Metal Systems is a plus.\r\n\u2022\tStrong problem-solving skills and attention to detail.\r\n\u2022\tEffective communication and teamwork abilities.\r\n\r\nBenefits:\r\n\u2022\tGain hands-on experience in cutting-edge mechanical engineering projects.\r\n\u2022\tWork closely with experienced engineers and mentors.\r\n\u2022\tExposure to real-world applications of Lidar Systems, Additive Manufacturing, and Lattice Metal Systems.\r\n\u2022\tOpportunity to contribute to innovative solutions and make a meaningful impact.",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000oL9J2AU",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
     }
 ]
