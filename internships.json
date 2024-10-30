@@ -147,5 +147,26 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Knowledge Management",
+        "description": "NASA's Office of the Chief Engineer is charged with managing knowledge learned from NASA projects. This includes the documentation of lessons, best practices, and other positive and negative experiences. It includes the use of the previous knowledge gained in ways that promote improved future project execution.  The capture of knowlege from departing members of the workforce and the infusion of knowledge to incoming workers is also within scope.  \r\n\r\nThe Langley Office of the Chief Engineer has an opportunity for you to gain on-the-job experience as you work with Langley and other NASA engineers, scientists, project managers, budget/schedule experts, etc., to help us better encapsulate past knowledge learned and incorporate it into future endeavors.  Among other activities, we are expecting Summer 2025 student interns to use story-telling techniques to help motivate Langley workforce to more broadly share and infuse knowledge with each other. \r\n\r\nThe ideal candidate would be able to communicate well in a variety of media, be a good team player, have tenacity to get details right, and be able to innovate in a constrained environment (e.g., a 10-week internship).",
+        "location": null,
+        "mode": [
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000xpcn2AA",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
