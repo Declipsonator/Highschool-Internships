@@ -168,5 +168,27 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Glenn High School Physical Sciences and Technologies Internship  (Summer 2025)",
+        "description": "The student will be supporting one or more of the following areas based on their background and experience level: \r\n\r\n1) The Physical Sciences Informatics (PSI) system is an online database of past and current physical science ISS flight experiments. NASA has a backlog of experimental data that is needed to be converted and organized from paper logs, CDs, etc. and put on media to be uploaded onto the PSI database. Responsibilities will be to gather and organize space flight data as needed for inclusion into the PSI database. Opportunities to analyze some of the flight data might be possible.  \r\n\r\n2) A large number of ISS Research flight hardware and supporting hardware is stored at GRC\u2019s bonded storage facility, B333. A new online inventory system was created last year but the hardware still needs to be entered with  When one need to find a piece of hardware in that facility, it takes a long time as the item is not usually where it was last seen. The student will support  the inventory, photodocumentation and cataloging of hardware.\r\n\r\n3) Student may also have the opportunity to work with college interns supporting projects in the following physical science disciplines: Fluid Physics, Combustion Science and Soft Matter.  The student will help with assisting the college interns during lab setup, testing, data taking and some analysis.  3d printing or laser cut of hardware for lab testing may also be performed.\r\n\r\nDepending on the task, the student should have experiment with one or more of the following: CAD Software (AutoCAD, Inventor, DraftSight, OnShape, etc), MS Excel or other spreadsheet program (highly recommended) and database software programs (such as MySQL).  Familiar with working in the lab environment, taking data/measurements and extrapolating results and working with lab equipment or having taken Chemistry.",
+        "location": "Ohio",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000z0Sv2AI",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
