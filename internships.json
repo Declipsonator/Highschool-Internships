@@ -190,5 +190,28 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: TEMPO Student Collaboration",
+        "description": "The Tropospheric Emissions: Monitoring of Pollution (TEMPO) Student Collaboration provides the opportunity for students to participate in atmospheric science research associated with NASA TEMPO satellite mission. Students will evaluate multiple small sensors for measurements of ozone, nitrogen dioxide, aerosol and UVB to determine their usefulness in providing ground truth for TEMPO. The small sensor measurements will be compared with each other and with research-grade instruments at the ground-based CAPABLE site. Students will design and conduct a study of the horizontal and temporal variability within and across TEMPO pixels of the air pollutants using the small sensors. Students will have the option for multi-summer participation at NASA Langley Research Center, and the possibility of continuing the research at their home institution during the school year. For more information about the NASA missions see http://science.nasa.gov/missions/tempo/ and http://capable.larc.nasa.gov.",
+        "location": null,
+        "mode": [
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000013ugE2AQ",
+        "opens_applications": "open",
+        "grade_level": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
