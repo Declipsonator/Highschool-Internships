@@ -213,5 +213,51 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Climate Change Research Initiative Internship - GISS",
+        "description": "NASA Earth Science Division\u2019s Early Career Research (ECR) Program Climate Change Research Initiative (CCRI) is an interdisciplinary, collaborative, summer STEM engagement, and experiential learning opportunity for undergraduate and high school interns, along with educators and graduate students, to work directly with NASA scientists and lead research teams in a NASA research project hosted at either NASA's Goddard Institute for Space Studies, Lamont Doherty Earth Observatory, or CUNY City College of Technology in New York City, NY. Note that some students who are not in the regional area may be considered. Internships are 6 weeks during the summer.\r\n\r\nIMPORTANT: In addition to filling out the application here, please also review the project listings at https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/ and complete/upload the PDF form here, along with your resume and transcripts. Without this additional PDF form, your application will not be considered.\r\n\r\nResearch opportunities for interns during Summer 2025 include the following projects:\r\n* Extreme Climate Events in Climate Models and Measurements\r\n* Climate Change in the Hudson Estuary\r\n* Characterizing the Urban Land Surface Temperature\r\n* Monitoring and Studying Lakes from Space in a Changing Climate\r\nAfter all selections are made, interns will be assigned a specific science mentor.",
+        "location": "New York",
+        "mode": [
+            "in-person",
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000x13J2AQ",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Climate Change Research Initiative Internship - GSFC",
+        "description": "NASA Earth Science Division\u2019s Early Career Research (ECR) Program Climate Change Research Initiative (CCRI) is an interdisciplinary, collaborative, summer STEM engagement, and experiential learning opportunity for undergraduate and high school interns, along with educators and graduate students, to work directly with NASA scientists and lead research teams in a NASA research project hosted at NASA's Goddard Space Flight Center in Greenbelt, MD. Note that some students who are not in the regional area may be considered. Internships are 6 weeks during the summer.\r\n\r\nIMPORTANT: In addition to filling out the application here, please also review the project listings at https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/ and complete/upload the PDF form here, along with your resume and transcripts. Without this additional PDF form, your application will not be considered.\r\n\r\nResearch opportunities for interns during Summer 2025 include the following projects:\r\n* SnowEx and Understanding the Role of Snow and Measurements (GSFC)\r\n* Soil Moisture Validation and Assessment. (GSFC)\r\nAfter all selections are made, interns will be assigned a specific science mentor.",
+        "location": "Maryland",
+        "mode": [
+            "in-person",
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000x2iX2AQ",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
