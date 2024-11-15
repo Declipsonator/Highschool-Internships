@@ -259,5 +259,26 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Launch Range Ground Operations Internship",
+        "description": "The Ground Operations Summer Internship project will support a variety of spaceflight missions at NASA Wallops Flight Facility (WFF) Launch Range. Ground Operations focuses on ground systems operation and maintenance used in the processing of spacecraft and launch vehicles. Students will learn about fluid commodities used in spacecraft propulsion, how to operate the systems delivering these commodities, and how to certify these commodities.  This will give students exposure across many STEM disciples, including mechanical, chemical, and electrical engineering, and analytical chemistry.  Students will participate in a hands-on learning experience and will work in a variety of environments (indoor, outdoor, laboratory, cleanrooms, control centers, etc.).  Classroom safety training for pneumatic, propellant, cryogenic, and life support systems will also be offered.  Students will be expected to demonstrate professionalism across diverse work settings and groups.  By the completion of the project, students will have a basic understanding of a NASA spaceflight program lifecycle, tradeoffs between different launch vehicles, launch site vehicle and payload integration processes, system engineering, and day-of-launch operations.",
+        "location": "Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000gjbp2AA",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
