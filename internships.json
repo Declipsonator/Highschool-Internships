@@ -280,5 +280,25 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Langley Photo Archives Digitization Initiative",
+        "description": "The Photo Archives team at Langley Research Center is working towards digitization of the Center\u2019s physical photo archive, which spans over 550,000 negatives and dates to 1921, which includes the NACA (National Advisory Committee for Aeronautics) years, active from 1915-1958. \r\n\r\nWith over 85% of the collection now scanned, our efforts are shifting to metadata entry and National Archives and Records Administration (NARA) transfer activities. These activities include creating a digital inventory of records and physically preparing boxes for shipment, some of which may weigh up to 30 pounds.\r\n\r\nThe ideal candidate should possess strong proficiency in Microsoft Office products, including Outlook, Excel, and PowerPoint. While familiarity with Office 365 applications like Teams and OneDrive is beneficial, it is not required. Comprehensive training for all other activities will be provided by mentors. The role is primarily on-site, with telework options available as appropriate. If preferred, a full-time on-site office arrangement can also be accommodated.\r\n\r\nIn addition to the core responsibilities of metadata entry and NARA transfer preparation, the selected individual will gain valuable exposure to the digitization process and the technical administration of the systems and servers housing the digital archives. They will also work closely with their mentors as they collaborate with Langley's Records Management Office, Professional Photography Team, History & Archives Office, and several divisions within the Office of Chief Information Officer (OCIO).",
+        "location": "Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000014qib2AA",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
     }
 ]
