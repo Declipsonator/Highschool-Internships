@@ -404,5 +404,85 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: NASA Data Acquisition Software Suite Development",
+        "description": "This internship consists of developing software for data acquisition systems supporting propulsion testing activities at several NASA Centers including NASA Stennis Space Center, White Sands Test Facility, and Marshal Space Flight Center. The tasks may include but are not limited to writing software, debugging, troubleshooting, participating in and/or facilitating code inspections, writing and/or fixing unit tests, executing unit tests, researching performance issues, network protocols, analyzing automated test output, and assisting with enhancing an automated test framework. The student will be part of a development team that uses an Agile software development process. The student will have a mentor as well as a technical point of contact throughout the internship- both of which are available to address any questions. The intern will be assigned technical tasks from the technical point of contact. Training on the specific software development process tools that are used on the project will be provided. A project overview and background information will be provided to the intern as well.",
+        "location": "Mississippi",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001Kk4X2AS",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Pressure System Mechanical Integrity: Supports the SSC Pressure System Program",
+        "description": "Safety and Mission Assurance; QA01\tPressure System Mechanical Integrity: Supports the SSC Pressure System Program and Ensuring Equipment Fit-for-Service\r\nThe student will support the NASA Pressure System Manager. The student will also interact with the Bastion Pressure System Manager, Piping Engineer, Pressure Vessel Engineer, American Petroleum Institute (API) piping and vessels inspectors, and Nondestructive Testing (NDE) technicians. The student may participate in pressure system certification and examination efforts; may perform field work collecting data; may perform engineering assessment of changes of pressure systems and submit the changes for approval; may perform simple corrosion rate calculations and remaining safe life; verify accuracy of piping and instrumentation diagram, and many other ad hoc activities relating to pressure systems. The student will be exposed to Federal regulations, State regulations, Agency requirements, and Consensus Codes and Standards affecting pressure vessels and pressure systems.\tAssist with Testing and Data Collection; Maintenance & Calibration; Adhere to Safety and Quality Standards; Participate in Team Collaboration; Technical Documentation",
+        "location": "Mississippi",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001Kk692AC",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Prototype Fluid System",
+        "description": "Autonomous Systems Lab; AA04\tPrototype Fluid System\tCreating prototype fluid system with sensor and actuator interfaces to data acquisition & control system and G2/NPAS Digital Twin. Rationale: (1) Creates laboratory hardware system useful for demos; (2) Implementing a model system supports G2/NPAS training by providing actual hardware elements; (3) Building a simple fluid system lays groundwork for developing a more advanced ACM fluid system. \tPrototyping & Fabrication; Testing/Data Acquisition",
+        "location": "Mississippi",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001Kk7l2AC",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Fast Prototyping of Hybrid Communication Devices",
+        "description": "Reducing the turnaround time to fabricate test and/or replacement communication assemblies on the lunar surface will benefit from additive manufacturing processes that combine materials for enclosures, conductive elements for antennas, and other printed electronic elements. The project will explore available alternatives and make recommendations for advancing the state of the art. A sample prototype will be produced that combines at least two additive methods",
+        "location": "Mississippi",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001KkAz2AK",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
     }
 ]
