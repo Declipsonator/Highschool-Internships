@@ -484,5 +484,69 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: AR/VR for Science and Engineering",
+        "description": "Interns will be doing a variety of tasks related to developing augmented reality (AR) and virtual reality (VR) applications for science and engineering. We are developing a range of AR/VR software applications that benefit the scientists and engineers at NASA. They target all NASA science domains (Earth Science, Planetary Science, Astrophysics, Heliophysics), Exploration, and Engineering. The ideal candidate is a combination programmer/3D artist, combining the ability to create or improve 3D content as well as programming their behavior and user interactions. Previous experience developing with Unity (C#) and Unreal (C++, Blueprints) is highly desired. Experience with Blender, Substance Painter, or other 3D software is a plus.",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000g54v2AA",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Fabrication Technician & Operations Mentor for FIRST Robotics \u201cThe Pink Team\u201d",
+        "description": "NASA supports several FIRST Robotics Competition teams at each of the NASA centers. KSC supports team 233, \u201cThe Pink Team\u201d. NASA mentors along with mentors from across the Space Coast will engage with local high school students to design and build a complex competition robot.\r\n\r\nStudent will be a part of the KSC\u2019s house FIRST Robotics Competition team \u201cThe Pink Team\u201d. Specifically, the student will be helping lead the fabrication and operations side of the build. Tasks could include fabricating robot parts, schedule tracking, and assisting with the operational components of the team and completing deliverables.",
+        "location": "Florida",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001NrcX2AS",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Instrument Development for Heliospheric Particles",
+        "description": "The Energetic Particle Laboratory (EPL) within the Heliospheric Physics Division at GSFC develops novel instruments for the detection of charged and neutral particles.  EPL is currently developing silicon solid state detectors (SSDs) for the HERMES and IMAP missions as well as gamma-ray detectors for the TRYAD and BurstCube Missions and future mission concepts. In addition, EPL is designing state-of-the-art neutron spectrometers for solar, lunar and radiation monitoring applications.   The gamma-ray/neutron spectrometers are based on modern scintillators that are read out by arrays of silicon photomultipliers (SiPMs).  Currently, the team is developing in-house digital processing boards, evaluating the performance of SIPMs for space-based applications, and conducting calibrations with laboratory sources and beam tests.  Instrument development requires mechanical and electrical engineering support.   \r\nGSFC provides a variety of internships that allow student to participate in the research, design, development, testing and evaluation of front-end electronics, digital processing, and mechanical structure designs.  In addition, students can participate in the analysis of laboratory tests and performance studies of SIPMs. Students will also be able to perform instrument simulations and employ machine learning techniques for track reconstruction.  Scientists, engineers, and computer science students are encouraged to apply.",
+        "location": "Maryland",
+        "mode": [
+            "in-person",
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000019wtp2AA",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
