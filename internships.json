@@ -548,5 +548,26 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: GRC-ATF MediaWiki Content Development",
+        "description": "This position will be onsite at the NASA Glenn Research Center Armstrong Test Facility (GRC-ATF) in Sandusky, Ohio. The selected intern will support knowledge management and digital transformation efforts as a part of the institutional information systems management (ISM) team at GRC-ATF. The ISM team manages station-wide data system architecture requirements, develops and maintains the knowledge management system and accompanying policies, ensures compliance with agency cybersecurity policies, and performs various other IT-related tasks across station.\r\n\r\nThe selected intern will be largely responsible for developing content within GRC-ATF\u2019s MediaWiki-based knowledge management system. The content may be written in plain text, wikitext, CSS, HTML, or JavaScript. Additional responsibilities may include providing user support, responding to system tickets, improving style and function of existing workflows, and providing various IT support throughout station.",
+        "location": "Ohio",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001OGhN2AW",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
