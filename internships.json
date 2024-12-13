@@ -569,5 +569,27 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC - Servicing of the Habitable World Observatory",
+        "description": "The student will design a scale model of a robotic servicer for the Habitable Worlds Observatory (HWO) and 3D print the servicer and the HWO. Models of the full-scale servicer and HWO will be added to NASA's augmented reality (AR)/virtual reality (VR) system. These scale 3D printed and AR/VR models will be used to conduct engineering trade studies.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. \r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be 16 years of age by the starting date of the program;\r\n- Must be a U.S. citizen; \r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n\r\nParticipants will be required to be onsite from June 30 - August 8, working five days per week, without any time off.\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001AVwP2AW",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
