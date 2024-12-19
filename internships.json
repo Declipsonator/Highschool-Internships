@@ -591,5 +591,71 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Simulation Environment for Mobile Robots",
+        "description": "A MATLAB application will be developed for kinematic and dynamic analysis of mobile robots focusing on autonomous path planning and control. Autonomous mobile robots are being introduced in many space applications, including planetary sample collection and surface exploration. In the last several years, simulations became an important part of hardware development in the field of robotics and reinforcement learning (RL). Modern RL methods show incredible results with virtual robot models learning to avoid obstacles while exploring unknown terrains. Many of these test cases describe theoretical fields of application and are not yet used in a real environment. RL can learn from experiences and apply the learned knowledge to real life problems. However, the acquisition of training data for RL algorithms is one of the most challenging tasks. The goal of this project is to develop a reliable simulation environment with physical robot models to facilitate quicker and realistic RL algorithm development.",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001Jinx2AC",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Improving Security Dynamic Analysis via Intelligent Testing Agents (High School)",
+        "description": "Students will gain firsthand knowledge in how to test NASA system software specifically for security vulnerabilities using intelligent algorithms that make dynamic analysis more efficient and effective (e.g., greater code coverage). The students will learn basic the concepts and applications of dynamic analysis, they will learn artificial intelligence technologies and how to apply them, and the students will learn how to work within a team to produce products that contribute to the NASA mission.\r\n \r\nOne student will establish dynamic analysis approach for security-based testing on core flight system (cFS), the other high school student will build intelligent application that drives the testing and measure if and what the improvements made during testing. The University student will apply same approach on SOCCRATES in support of Artemis 2 testing ensuring that common security vulnerabilities are not present.",
+        "location": "West Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001R3aj2AC",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Embedded Systems Introduction (High School)",
+        "description": "Project will introduce students to the world of embedded systems programming to include some combination of working with robotics applications, real-time operating systems such as RTEMS, and learning verification and validation basics.",
+        "location": "West Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001R3dx2AC",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
