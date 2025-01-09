@@ -701,5 +701,69 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Sustainability & Energy Program Support",
+        "description": "Student will support the Goddard Sustainability  & Energy Program Manager at both the Greenbelt and Wallops campuses, and possibly HQ NASA. The work includes research, data collection, writing and communication skills, facility and site surveys, natural resources, energy and water conservation, environmental engineering, pollution prevention and recycling strategies, climate change adaptation, and strategic planning. Looking for a student who is interested in sustainability, including energy, civil, or environmental engineering. Projects include benchmarking Goddard sustainable buildings in Portfolio Manager, determine and submit buildings to be Energy Star certified, and complete HQ retro-commissioning fact sheets. The student will also support Envision sustainability certification of the WFF Causeway Bridge Replacement Project which will require the student to become familiar with the Institute for Sustainable Infrastructure (ISI) Envision Program. The student will help the Envision team plan and design a sustainable causeway bridge with minimal environmental impacts during construction, minimal operation and maintenance costs, and resilience to climate change. The student will baseline Goddard\u2019s carbon footprint and develop a methodology to track carbon emissions reductions to meet federal sustainability goals. The projects will develop the students interpersonal and communication skills requiring frequent interaction with NASA engineers, scientists and program managers. The data collected will provide crucial information enabling Goddard\u2019s leadership to determine the Center\u2019s progress towards meeting NASA\u2019s sustainability goals.",
+        "location": "Virginia",
+        "mode": [
+            "in-person",
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000OGEv2AO",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Optics for Space",
+        "description": "Optical design and analysis for future space based observatories and instruments.\r\n\r\nComputer/Software Skills:  (Matlab, Mathematica, Python, etc.).  Optical design software (CODE V, Zemax, OSLO, etc.).\r\nScientific and Technical Skills: Optics education preferred.",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001AiLm2AK",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Multimessenger Astronomy with Gamma-ray Bursts",
+        "description": "Search for multimessenger / multi-wavelength sources of gamma-ray burst (GRB) events. Data analysis of GRBs and other transients. Detector development studies for the next generation of gamma-ray burst instrumentation.\r\n\r\nPlease Note: Additional Skills \r\nProgramming experience required for Master\u2019s and Doctorate level students. Some background knowledge in astronomy, astrophysics, and/or statistics is encouraged. \r\nWorking in teams and independently, self-directed learning and troubleshooting.",
+        "location": "Alabama",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001ert32AA",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
     }
 ]
