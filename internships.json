@@ -765,5 +765,49 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Components & Hardware Systems - GN&C EE/CE Systems Development",
+        "description": "The Components and Hardware Systems Branch specializes in the development of advanced Guidance Navigation and Control (GN&C) component technologies that enable current and future Flight Missions. The intern will work closely with NASA personnel to work on Sensors/Actuators Development for various Missions and Center R&D activities. For Electrical Engineering and Computer Engineering/Science this includes but is not limited to the development and test of Computer/microprocessors, Analog and Digital, Power conditioning electronics, RF and Communications, Modem development, FPGA/VHDL, Digital Signal Processing, etc. For Software development this includes but is not limited to Embedded systems and Algorithmic coding",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001dTET2A2",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Components & Hardware Systems - GN&C ME/AE Systems Development",
+        "description": "The Components and Hardware Systems Branch specializes in the development of advanced Guidance Navigation and Control (GN&C) component technologies that enable current and future Flight Missions. The intern will work closely with NASA personnel to work on Sensors/Actuators Development for various Missions and Center R&D activities. For Mechanical/Packaging & Aerospace this includes but is not limited to drafting of mechanical and electrical drawings; Structural, thermal, and thermo-mechanical analysis; Electromechanical and opto-mechanical design; Electronics Packaging and enclosure design; Manufacturing support; Assembly and Integration & Test; GN&C Performance Validation; GN&C Algorithm and Simulation Development.",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001dY1F2AU",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
