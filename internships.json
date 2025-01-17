@@ -809,5 +809,112 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Wildland Fire Monitoring and Suppression: Field Evaluation Data Analysis",
+        "description": "Wildland fire monitoring and suppression can be aided significantly by aerial operations with drones. The ACERO project will be conducting a field evaluation of their airspace management service system in early 2025 to demonstrate data sharing capabilities. The student will be asked to analyze a good amount of field evaluation data and develop scripts and tools for calculating performance metrics and displaying data rates. Basic programming skills and familiarity with fundamental statistical principles are preferred.",
+        "location": "California",
+        "mode": [
+            "in-person",
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001YZAr2AO",
+        "opens_applications": "open",
+        "grade_level": [
+            11
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Computer Vision and Navigation for Advanced Air Mobility",
+        "description": "Vision-based navigation is a promising Alternative Precision, Navigation, and Timing (APNT) solution for aircraft operating in GPS-degraded environments or areas with complete loss of GPS signals. As part of our ongoing efforts under the Aeronautics Research Mission Directorate, our flight test team has collected publicly available real-world video, lidar, and ground-truth data using drones and helicopters.\r\n\r\nThe intern will leverage this unique dataset to explore and evaluate computer vision techniques for feature detection and landmark identification, specifically tailored for approach and landing scenarios at heliports and vertiports. The project will focus on simulating vision-based navigation for Advanced Air Mobility (AAM), with an emphasis on the challenges of real-time processing in resource-constrained embedded systems. This project provides an excellent opportunity to contribute to cutting-edge research in vision-based navigation for AAM while gaining hands-on experience with real-world flight data, state-of-the-art algorithms, and technical communication through publications or presentations. The intern will contribute to this effort through a combination of technical analysis and hands-on application, including the following responsibilities:\r\n\r\n\u2022\tApplying and comparing various computer vision algorithms for feature detection to identify landmarks for landing.\r\n\u2022\tAnalyzing and benchmarking the performance of these algorithms under different operational conditions and computational constraints.\r\n\u2022\tPreparing technical documentation or presentations to share findings, which will establish benchmarks for the research community.\r\n\u2022\tProviding recommendations for future flight data collection campaigns, including flight scenarios, sensor configurations, and system enhancements.\r\n\u2022\tParticipating in the planning and execution of small Unmanned Aircraft Systems (sUAS) and helicopter flight tests to expand the dataset and gain field-testing experience, as needed.",
+        "location": null,
+        "mode": [
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001iUrR2AU",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: NExCT Integrated Operating Picture",
+        "description": "This project is a FT virtual internship working on the Integrated Operational Picture for NExCT. Desirable interns will be high school students, have experience with software engineering and enjoy working with teams. \r\n\r\nDetailed Project Description:\r\nThis project is focused on services to support integrated operating pictures (IOP). In particular, the goal is to explore ML/AI techniques for supporting IOP. The project will explore different techniques, policies and objectives and implement GenAI service. \r\n\r\nMeeting frequency/project dynamics: \r\nOnce per week\r\n\r\nWorking hours: \r\nFull-time interns (40h/week) are expected to complete working hours during Ames\u2019 core work hours of M-F 8AM-5PM PST. \r\n\r\nComputer/Software skills:\r\nPython or Java or Go, Docker (optional)\r\n\r\nScientific/ Technical skills:\r\nRead research papers (optional)\r\n\r\nGeneral Skills- List any other skills needed. \r\nAbility to listen & seek clarity, work well with others",
+        "location": null,
+        "mode": [
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001jvkj2AA",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Onsite/Virtual - NASA Ames Astrobee Facility",
+        "description": "NASA Ames Astrobee Facility Brief description of duties: The successful applicant would be involved with software development and general support of the NASA Ames Astrobee Facility. (www.nasa.gov/astrobee) Specifically, the successful applicant would initially be validating and developing C++/Java software for a Astrobee robot. Additional work may include ISS flight quality hardware and maintaining Astrobee Facility labs. \r\n\r\nThe applicant may be familiar with C++, Java, ROS software development and good coding practices. In general, we are looking for someone who is motivated, a self-starter, and capable of working independently on tasks.",
+        "location": "California",
+        "mode": [
+            "in-person",
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001kIiv2AE",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Downstream task development and evaluation for a foundation model",
+        "description": "Foundation model is the core of ChatGPT and other generative machine learning models. However, it's advantage over traditional deep learning (DL) models hasn't been extensively studied in NASA remote sensing data domain. For this position, the selected candidate is expected to develop benchmark DL models for atmosphere related downstream tasks of an existing foundation model (SatVision-TOA), and evaluate/compare to understand whether SatVision-TOA model can bring extra benfits. The selected candidate will work with frontier ML experts at NASA Goddard and contribute to frontier science. The incumbent is expected to actively attend weekly discussions and provides progress updates. The candidate should have ML background. Some knowledge or experience with the transformer model is a plus.",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001kXTR2A2",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
