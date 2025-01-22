@@ -960,5 +960,115 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: Advanced computation and aerosol retrieval",
+        "description": "Aerosols, such as particulate pollution, dust, smoke and sea salt, play important roles in Earth's radiative balance, cloud and precipitation formation, fertilization of ecosystems, air quality and human health. Retrieval of aerosol parameters from space-based spectral radiometric measurements has been based on physical understanding of radiative transfer, particles and the environment that these particles inhabit. For decades, physically-based methods have produced a suite of highly useful products. However, physically-based methods work best when their assumptions are accurate, and tend to fail in situations where the real world and retrieval assumptions do not match well. Especially difficult for aerosol retrieval algorithms is the separation of aerosol from clouds, identifying the type of aerosol from space and parameterizing the surface reflectance beneath the aerosol layers. In this project, a group with experience in physically-based aerosol remote sensing wants to explore Machine Learning (ML) or other advanced computation techniques with a student experienced in Data Science and/or ML. Possible projects might involve applying ML to one component of the retrieval, such as separating aerosols from clouds, or detecting aerosol types from multispectral and/or multi-temporal satellite imagery.",
+        "location": "Maryland",
+        "mode": [
+            "in-person",
+            "virtual"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 2,
+            "day": 28
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001XBNV2A4",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Downstream task development and evaluation",
+        "description": "Foundation model is the core of ChatGPT and other generative machine learning models. However, it's advantage over traditional deep learning (DL) models hasn't been extensively studied in NASA remote sensing data domain. For this position, the selected candidate is expected to develop benchmark DL models for atmosphere related downstream tasks of an existing foundation model (SatVision-TOA), and evaluate/compare to understand whether SatVision-TOA model can bring extra benfits. The selected candidate will work with frontier ML experts at NASA Goddard and contribute to frontier science. The incumbent is expected to actively attend weekly discussions and provides progress updates. The candidate should have ML background. Some knowledge or experience with the transformer model is a plus.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001n4jR2AQ",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Analysis of Roman Telescope Image Data",
+        "description": "Join Roman Space Telescope I&T Science Data Processing team and work on an AI/ML data processing project. This project involves analyzing detector images collected during the mission I&T phase and validates the system requirements. You will process large datasets using Python libraries like NumPy and Pandas, train an ML model using PyTorch to predict detector behavior, and visualize the results using Matplotlib. This project offers a unique opportunity for high school students to gain hands-on experience in data analysis and machine learning. You will work closely with experienced software developers, learn from them, and contribute to the launch of Roman Space Telescope.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001n8Or2AI",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Occupational Health - Industrial Hygiene",
+        "description": "The GSFC Industrial Hygiene team functions to recognize, evaluate, and control workplace health hazards.  This project within GSFC Industrial Hygiene will involve researching and documenting probability of failure and anticipated release rates of components and instruments of cryogenic systems and asphyxiant gas systems so that proper levels of protections and controls are designated to users of liquid and gaseous systems that could produce an oxygen deficient atmosphere in the event of a leak, malfunction, or release.  Calculations will be conducted for operations and systems to determine oxygen deficiency classifications.  Various other duties will be performed as follows: Entering workplace health survey information and equipment calibration documents into the health information system; examining health information system to gather general statistics, examining web-based training feedback questionnaires and determining metrics based on responses; extracting lists of personnel from data system; performing excel functions to compare personnel lists to training lists; conducting trend analysis of workplace exposures; and possibly industrial hygiene field work involving indoor air quality and ventilation.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001nOv32AE",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Wallops - Goddard Sustainability & Energy Program",
+        "description": "Selected students will support the Goddard Sustainability, Energy & Water Programs at the Wallops campus. The project primarily covers support to facilities and mission assets (e.g., rocket, balloon and UAV systems, clean rooms, research labs, utility systems). \r\n\r\n\r\nEligible applicants for this project must reside within 50 miles of Wallops Flight Facility in Wallops Island, VA.\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001nUvd2AE",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
