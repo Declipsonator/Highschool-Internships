@@ -1,576 +1,5 @@
 [
     {
-        "name": "NASA: The PolCube CubeSat polarimeter",
-        "description": "A student will learn to run and apply the PolCube-MAPP algorithm to study sensitivity to spherical and non-spheroidal aerosols from the future PolCube satellite instrument. Polarimetry is a passive, remote-sensing technique that provides unparalleled capabilities for characterizing atmospheric aerosols. Aerosol particles in the atmosphere are highly variable and depend greatly upon their source (e.g., sea salt, yellow sand, Asian dust, and soot from power plants, diesel exhaust, fires, waste incineration, etc.). Knowledge of the fundamental properties of aerosols and their interactions with the atmosphere, hydrosphere, and biosphere are relevant to NASA and other Agencies (e.g., Army operations, infrastructure, and stewardship). In addition, poor air quality impacts the health and well-being of the public.",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000AKTj2AO",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: ESEA - Equity Strategies for Emerging Aviation",
-        "description": "Recent advances in electric propulsion and automation have enabled emerging aviation concepts that have the potential to radically change the way people and cargo move from place to place. Current startup companies in the United States are proposing:\r\n\r\n* passenger-carrying air vehicles that can move people between different urban areas 2-10 times faster than today\u2019s transportation, at lower environmental cost and with less noise \r\n\r\n* automated cargo vehicles that take advantage of today\u2019s underutilized small airports to ship goods regionally\r\n\r\n* emergency response operations that allow faster response times with less risk to emergency responders\r\n\r\nTraditionally, new modes of transportation in the United States have benefited upper social classes at the expense of underrepresented and lower socioeconomic classes. Several recent studies in transportation have explored this disparity, and research has highlighted factors that contribute to transportation equity. In this effort, we will examine this previous work as it applies to the broader, current transportation system. First, we will use our literature search to highlight and educate the current emerging aviation stakeholders on equity strategies that are directly applicable to these novel operations. Second, we will use our literature research to make informed recommendations for experiments and data collection that will increase our understanding about how these new aviation concepts can be encouraged to provide equity as an emergent property.",
-        "location": "California",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000Bmnh2AC",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Materials Processing for Space Nuclear Propulsion",
-        "description": "This hands-on opportunity involves processing, characterizing, and testing  novel materials for NASA Space Nuclear Propulsion applications. Experience with nuclear materials in not a requirement. \r\nThe EM32 Advanced Processes team is looking for a few candidates to fabricate fuel and surrogate fuel materials into elements. The elements will then be characterized and tested in our onsite laboratories. Safety is our number one priority. All necessary training will be provided. The opportunity may involve a variety of materials processing techniques including powder processing and sintering. The opportunity will expose the candidate to materials characterization and testing techniques such as SEM, XRD, hardness mapping, tensile testing, and metallurgical preparation, polishing, and analysis. The description above is general, as the actual work performed will vary from day-to-day in a dynamic team environment. \r\n\r\nThe applicant should possess a general understanding of materials engineering and be able to implement fundamental engineering concepts in real world applications. The applicant should be adept at hands-on, laboratory and/or mechanical tasks and have a passion for getting dirty from hard work! Nuclear materials processing is a plus. \r\n\r\nCandidate must be an excellent communicator with strong speaking, writing, and presenting skills. Candidate must be a self-starter who takes initiative to complete tasks on time with reasonable supervision. Candidate will demonstrate the ability to work independently as well as in small, multi-disciplined teams. \r\n\r\nThe applicant should be proficient in the MS Office suite including. Excel, PowerPoint, and Word. Applicant should be familiar with basic CAD software like Solid Edge, Solid Works or Pro Engineer.\r\n\r\nKey words:\r\nMaterials Science, Engineering, Nuclear, laboratory, hands-on, powders, ceramics, carbides, fuel, Excel, Power Point, Word, Mechanical design, machining, welding, communicator, speaking, writing, presenting, initiative, humility, team, multi-disciplined, CAD.",
-        "location": "Alabama",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000J32D2AS",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Pneumatic Shock System \u2013 Methods and Development",
-        "description": "Assist the development and documentation of the capability and setups needed to meet the various lunar/mars mission shock levels quickly, efficiently and safely with the Pneumatic Shock Simulator (PSS). Also, to conduct additional near field shock testing for application in instances the levels are past the PSS\u2019s capabilities.\r\n\r\n[NOTE: If you are selected for participation in an internship, you will be required to visit a NASA center or facility for fingerprinting and identity verification. Accommodations can be requested for selected candidates with disabilities. NASA Centers and Facilities - https://science.nasa.gov/about-us/nasa-centers]",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000VUD72AO",
-        "opens_applications": "open",
-        "grade_level": [
-            9,
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Ground Safety Intern",
-        "description": "Shadow and perform hazard analysis of systems at WFF with experienced ground safety analysts and engineers, and review several simple hazard systems for final evaluation and approval.  After gaining understanding of how hazards are reviewed and planned for, consider how this process can be partially supplemented with Artificial Intelligence (AI).  Candidate should be familiar with AI tools, languages, and be able to conduct sample evaluations on a close internal network.  Enrolled in an AI program is preferred but not required.  \r\nWork environment is in office and in the field such as rocket integration facility and launch pads.  Walking up and down between piping runs are expected.",
-        "location": "Virginia",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000lVDF2A2",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Lidar Design & Development",
-        "description": "Are you a forward-thinking and ambitious individual ready to embark on a groundbreaking journey in the realm of Mechanical Engineering? We are thrilled to offer an extraordinary opportunity to join our team and be at the forefront of innovation. As part of this exciting venture, you will be instrumental in crafting Lidar Systems using state-of-the-art Additive Manufacturing techniques and cutting-edge lattice networks. This unique position invites you to push the boundaries of what's possible in the world of mechanical engineering, contributing to the development of revolutionary technologies that will shape the future. If you are passionate about pushing the limits of engineering and eager to make a significant impact, we invite you to be a key player in redefining the landscape of Lidar Systems. Seize the chance to unleash your creativity and expertise on projects that will redefine the industry!\r\n\r\nWe are seeking a highly motivated and enthusiastic student to join our dynamic team as a Mechanical Engineering Intern. This internship opportunity will provide hands-on experience in cutting-edge projects related to Lidar Systems, Additive Manufacturing, and Lattice Metal Systems. As a key member of our engineering team, you will contribute to the development and advancement of innovative technologies in the field of mechanical engineering.\r\n\r\nResponsibilities:\r\nLidar Systems Development:\r\n\u2022\tCollaborate with cross-functional teams to design and optimize mechanical components for Lidar systems.\r\n\u2022\tConduct research on Lidar technologies and contribute to the development of next-generation systems.\r\n\u2022\tPerform testing and analysis to ensure the performance and reliability of Lidar components.\r\n\r\nAdditive Manufacturing:\r\n\u2022\tWork on projects involving additive manufacturing techniques, including 3D printing, to produce complex and optimized mechanical structures.\r\n\u2022\tParticipate in the selection of materials and processes for additive manufacturing applications.\r\n\u2022\tAssist in the design and prototyping of components using additive manufacturing methods.\r\n\r\nLattice Metal Systems:\r\n\u2022\tContribute to the design and optimization of lattice metal structures for various engineering applications.\r\n\u2022\tCollaborate with the engineering team to conduct simulations and analysis of lattice structures.\r\n\u2022\tWork on projects aimed at exploring the mechanical properties and applications of lattice metal systems.\r\n\r\nQualifications:\r\n\u2022\tCurrently enrolled in a bachelor\u2019s program in Mechanical Engineering or a related field.\r\n\u2022\tHigh school students may apply. \r\n\u2022\tStrong understanding of mechanical engineering principles and fundamentals.\r\n\u2022\tProficiency in CAD software (e.g., SolidWorks, AutoCAD) for 3D modeling and design.\r\n\u2022\tKnowledge or coursework related to Lidar Systems, Additive Manufacturing, and Lattice Metal Systems is a plus.\r\n\u2022\tStrong problem-solving skills and attention to detail.\r\n\u2022\tEffective communication and teamwork abilities.\r\n\r\nBenefits:\r\n\u2022\tGain hands-on experience in cutting-edge mechanical engineering projects.\r\n\u2022\tWork closely with experienced engineers and mentors.\r\n\u2022\tExposure to real-world applications of Lidar Systems, Additive Manufacturing, and Lattice Metal Systems.\r\n\u2022\tOpportunity to contribute to innovative solutions and make a meaningful impact.",
-        "location": "Maryland",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000oL9J2AU",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: AI & ML for Air Traffic Management",
-        "description": "This project explores the use of innovative and emerging applications of AI/ML (e.g., Natural Language Processing) to digitize and analyze heritage air traffic management (ATM) datasets. Given the rich volume of available text, audio and track data and the complexity of the problem space, this is an ideal candidate for the application of machine learning. The research is focused on optimizing current day flight operations e.g., to perform runway configuration management and analyze Traffic Management Initiatives (TMIs). The work will help build semi-automated recommender services that can assist complex decision making currently made by FAA specialists and subject matter experts. This internship can be onsite or remote.",
-        "location": "California",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000v3vd2AA",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Knowledge Management",
-        "description": "NASA's Office of the Chief Engineer is charged with managing knowledge learned from NASA projects. This includes the documentation of lessons, best practices, and other positive and negative experiences. It includes the use of the previous knowledge gained in ways that promote improved future project execution.  The capture of knowlege from departing members of the workforce and the infusion of knowledge to incoming workers is also within scope.  \r\n\r\nThe Langley Office of the Chief Engineer has an opportunity for you to gain on-the-job experience as you work with Langley and other NASA engineers, scientists, project managers, budget/schedule experts, etc., to help us better encapsulate past knowledge learned and incorporate it into future endeavors.  Among other activities, we are expecting Summer 2025 student interns to use story-telling techniques to help motivate Langley workforce to more broadly share and infuse knowledge with each other. \r\n\r\nThe ideal candidate would be able to communicate well in a variety of media, be a good team player, have tenacity to get details right, and be able to innovate in a constrained environment (e.g., a 10-week internship).",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000xpcn2AA",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Glenn High School Physical Sciences and Technologies Internship  (Summer 2025)",
-        "description": "The student will be supporting one or more of the following areas based on their background and experience level: \r\n\r\n1) The Physical Sciences Informatics (PSI) system is an online database of past and current physical science ISS flight experiments. NASA has a backlog of experimental data that is needed to be converted and organized from paper logs, CDs, etc. and put on media to be uploaded onto the PSI database. Responsibilities will be to gather and organize space flight data as needed for inclusion into the PSI database. Opportunities to analyze some of the flight data might be possible.  \r\n\r\n2) A large number of ISS Research flight hardware and supporting hardware is stored at GRC\u2019s bonded storage facility, B333. A new online inventory system was created last year but the hardware still needs to be entered with  When one need to find a piece of hardware in that facility, it takes a long time as the item is not usually where it was last seen. The student will support  the inventory, photodocumentation and cataloging of hardware.\r\n\r\n3) Student may also have the opportunity to work with college interns supporting projects in the following physical science disciplines: Fluid Physics, Combustion Science and Soft Matter.  The student will help with assisting the college interns during lab setup, testing, data taking and some analysis.  3d printing or laser cut of hardware for lab testing may also be performed.\r\n\r\nDepending on the task, the student should have experiment with one or more of the following: CAD Software (AutoCAD, Inventor, DraftSight, OnShape, etc), MS Excel or other spreadsheet program (highly recommended) and database software programs (such as MySQL).  Familiar with working in the lab environment, taking data/measurements and extrapolating results and working with lab equipment or having taken Chemistry.",
-        "location": "Ohio",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000z0Sv2AI",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: TEMPO Student Collaboration",
-        "description": "The Tropospheric Emissions: Monitoring of Pollution (TEMPO) Student Collaboration provides the opportunity for students to participate in atmospheric science research associated with NASA TEMPO satellite mission. Students will evaluate multiple small sensors for measurements of ozone, nitrogen dioxide, aerosol and UVB to determine their usefulness in providing ground truth for TEMPO. The small sensor measurements will be compared with each other and with research-grade instruments at the ground-based CAPABLE site. Students will design and conduct a study of the horizontal and temporal variability within and across TEMPO pixels of the air pollutants using the small sensors. Students will have the option for multi-summer participation at NASA Langley Research Center, and the possibility of continuing the research at their home institution during the school year. For more information about the NASA missions see http://science.nasa.gov/missions/tempo/ and http://capable.larc.nasa.gov.",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000013ugE2AQ",
-        "opens_applications": "open",
-        "grade_level": [
-            9,
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Climate Change Research Initiative Internship - GISS",
-        "description": "NASA Earth Science Division\u2019s Early Career Research (ECR) Program Climate Change Research Initiative (CCRI) is an interdisciplinary, collaborative, summer STEM engagement, and experiential learning opportunity for undergraduate and high school interns, along with educators and graduate students, to work directly with NASA scientists and lead research teams in a NASA research project hosted at either NASA's Goddard Institute for Space Studies, Lamont Doherty Earth Observatory, or CUNY City College of Technology in New York City, NY. Note that some students who are not in the regional area may be considered. Internships are 6 weeks during the summer.\r\n\r\nIMPORTANT: In addition to filling out the application here, please also review the project listings at https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/ and complete/upload the PDF form here, along with your resume and transcripts. Without this additional PDF form, your application will not be considered.\r\n\r\nResearch opportunities for interns during Summer 2025 include the following projects:\r\n* Extreme Climate Events in Climate Models and Measurements\r\n* Climate Change in the Hudson Estuary\r\n* Characterizing the Urban Land Surface Temperature\r\n* Monitoring and Studying Lakes from Space in a Changing Climate\r\nAfter all selections are made, interns will be assigned a specific science mentor.",
-        "location": "New York",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000x13J2AQ",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Climate Change Research Initiative Internship - GSFC",
-        "description": "NASA Earth Science Division\u2019s Early Career Research (ECR) Program Climate Change Research Initiative (CCRI) is an interdisciplinary, collaborative, summer STEM engagement, and experiential learning opportunity for undergraduate and high school interns, along with educators and graduate students, to work directly with NASA scientists and lead research teams in a NASA research project hosted at NASA's Goddard Space Flight Center in Greenbelt, MD. Note that some students who are not in the regional area may be considered. Internships are 6 weeks during the summer.\r\n\r\nIMPORTANT: In addition to filling out the application here, please also review the project listings at https://science.nasa.gov/earth-science/early-career-opportunities/climate-change-research-initiative/ and complete/upload the PDF form here, along with your resume and transcripts. Without this additional PDF form, your application will not be considered.\r\n\r\nResearch opportunities for interns during Summer 2025 include the following projects:\r\n* SnowEx and Understanding the Role of Snow and Measurements (GSFC)\r\n* Soil Moisture Validation and Assessment. (GSFC)\r\nAfter all selections are made, interns will be assigned a specific science mentor.",
-        "location": "Maryland",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000x2iX2AQ",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Launch Range Ground Operations Internship",
-        "description": "The Ground Operations Summer Internship project will support a variety of spaceflight missions at NASA Wallops Flight Facility (WFF) Launch Range. Ground Operations focuses on ground systems operation and maintenance used in the processing of spacecraft and launch vehicles. Students will learn about fluid commodities used in spacecraft propulsion, how to operate the systems delivering these commodities, and how to certify these commodities.  This will give students exposure across many STEM disciples, including mechanical, chemical, and electrical engineering, and analytical chemistry.  Students will participate in a hands-on learning experience and will work in a variety of environments (indoor, outdoor, laboratory, cleanrooms, control centers, etc.).  Classroom safety training for pneumatic, propellant, cryogenic, and life support systems will also be offered.  Students will be expected to demonstrate professionalism across diverse work settings and groups.  By the completion of the project, students will have a basic understanding of a NASA spaceflight program lifecycle, tradeoffs between different launch vehicles, launch site vehicle and payload integration processes, system engineering, and day-of-launch operations.",
-        "location": "Virginia",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000gjbp2AA",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Langley Photo Archives Digitization Initiative",
-        "description": "The Photo Archives team at Langley Research Center is working towards digitization of the Center\u2019s physical photo archive, which spans over 550,000 negatives and dates to 1921, which includes the NACA (National Advisory Committee for Aeronautics) years, active from 1915-1958. \r\n\r\nWith over 85% of the collection now scanned, our efforts are shifting to metadata entry and National Archives and Records Administration (NARA) transfer activities. These activities include creating a digital inventory of records and physically preparing boxes for shipment, some of which may weigh up to 30 pounds.\r\n\r\nThe ideal candidate should possess strong proficiency in Microsoft Office products, including Outlook, Excel, and PowerPoint. While familiarity with Office 365 applications like Teams and OneDrive is beneficial, it is not required. Comprehensive training for all other activities will be provided by mentors. The role is primarily on-site, with telework options available as appropriate. If preferred, a full-time on-site office arrangement can also be accommodated.\r\n\r\nIn addition to the core responsibilities of metadata entry and NARA transfer preparation, the selected individual will gain valuable exposure to the digitization process and the technical administration of the systems and servers housing the digital archives. They will also work closely with their mentors as they collaborate with Langley's Records Management Office, Professional Photography Team, History & Archives Office, and several divisions within the Office of Chief Information Officer (OCIO).",
-        "location": "Virginia",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000014qib2AA",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Virtual - JWST Cosmic Ray Rejection using ML",
-        "description": "With the launch of James Webb Space Telescope (JWST), a new era of astronomical discoveries was made possible. One bottleneck in the effective utilization of JWST and similar future telescopes, however, is the removal of data contaminated with cosmic rays that hit the detectors. Part of the data preprocessing and reduction involves dealing with noise generated by processes that include dark current, readout, and cosmic rays. During the readout process, successive frames are averaged and aggregated using an up-the-ramp readout scheme. For each pixel, the increase from one frame to the other follows a given rate, but cosmic ray hits lead to a sudden jump (see Figure 1 in [1] for a generic illustration of the up-the-ramp readout scheme). Current methods involve a manual examination of different rejection thresholds to find one that provides the best results for the intended observation (see [2] for a description of the current algorithm used in the JWST pipeline to detect these jumps). This time-consuming and inefficient process slows down the returned science.\r\nThe goal of this project is to design and apply a machine learning algorithm in an unsupervised setting that can learn from the data to detect these jumps between frames and thus identify pixels hit by cosmic ray jumps. The intern will work closely with the mentor and other collaborators, discussing/implementing possible techniques to solve this challenge. The candidate must be proficient in Python and have experience with libraries related to machine learning, deep learning, and data processing such as TensorFlow, Keras, Scikit-learn, SciPy. Experience dealing with astronomical data and high-performance computing are preferred.\r\n \r\nReferences\r\n \r\n[1] https://jwst-docs.stsci.edu/understanding-exposure-times#UnderstandingExposureTimes-uptheramp, accessed 10/20/2022\r\n[2] https://jwst-pipeline.readthedocs.io/en/stable/jwst/jump/description.html, accessed 10/20/2022\r\n\r\n*Make sure to apply only if you are fluent in Python coding and has experience in deep learning. Otherwise, there is no chance.\r\n\r\n**Please note, if you are selected for participation in an internship, you will be required to visit a NASA center or facility for fingerprinting and identity verification. Accommodations can be requested for selected candidates with disabilities. NASA Centers and Facilities - https://science.nasa.gov/about-us/nasa-centers**",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001KoPt2AK",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Machine Shop Works System Support",
-        "description": "The Engineering Technician Intern will create a training video for use of the E2 Machine Shop Works System in support of quality assurance for Stereo Cameras for Lunar Plum-Surface Studies (SCALPSS) and Exploration Evaluation Services (xEVAS) Government Task Agreements.",
-        "location": "Virginia",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001KjoP2AS",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Materials & Structures Experiments",
-        "description": "Student will work in Structures and Materials labs/facilities testing a variety of material and structure specimens using hydraulic mechanical test stands and environmental chambers.  Many of our tests are to failure so that we can document all the strengths and weaknesses of the materials or components and engineering can utilize this data for future aircraft and spacecraft applications.\r\no\tAssist with Testing and Data Collection: Installing test data instrumentation onto specimens.  Perform mechanical hydraulic testing on composite specimens following ASTM standards and collecting data using load, strain, extensometers, and data image correlation.  Data is transferred to researchers using lab servers.\r\no\tSupport Prototyping and Fabrication: Assisting a qualified technician in a machine shop to fabricate or modify fixtures and other hardware needed for mechanical testing (using micrometers, vernier calipers, bandsaw, drilling holes, torque wrenches, etc.)\r\no\tMaintenance and Calibration: Instrumentation must be calibrated and tared prior to starting testing.  All equipment is checked out prior to use and any needed maintenance is performed as needed or during regularly scheduled intervals. \r\no\tTechnical Documentation: Student will utilize LaRC task descriptions and procedural requirements and ASTM standards to perform testing to meet requirements of test.\r\no\tModeling and Simulation Support:  Hydraulic test stands, and environmental chambers are utilized to simulate loads and temperatures experienced during actual flight conditions to evaluate the feasibility of materials or structures for aircraft or space craft use in the future.  May also utilize LaRC Maker Space (3-D printers) to create model of fixture or bracket to aid in test setup. \r\no\tParticipate in Team Collaboration: Participate in branch meetings and technician discussions about the status of labs along with any lessons learned from recent testing for future applications.  Will also directly work w/NASA engineers and scientists while performing test work.  Technicians team w/the other professions to ensure testing meets all requirements. \r\no\tAdhere to Safety and Quality Standards: Complete NASA LaRC safety training courses, wear proper personal protective equipment when applicable.  Testing must meet quality ASTM and LaRC standards for data to be valid.  Work with Quality Assurance Specialists when working with flight projects.",
-        "location": "Virginia",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001Kjur2AC",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Manufacturing Applications Technician",
-        "description": "o\tSupport Composite Lay-up Processes and Procedures: Assist technicians in room temperature cure (resin infusion/traditional) and advanced (pre-preg) composite lay-ups. This includes mold prep/release procedures, cutting/handling of fabrics, release, and vacuum bagging materials, proper techniques for material placement, and mixing/applying various resin systems.  Student will also assist with demolding and trimming of cured composite parts.\r\no\tSupport Composite Model Making Fabrication Practices: Assist with assembly of composite test articles.  This includes use of calibrated measuring equipment for accurate part location, weighing/mixing of resins and adhesives, use of various woodworking machinery and hand tools (both powered and traditional) for modification and fit-up of parts, and tools/procedures necessary for application of primers and paints.\r\no\tExposure to CNC Machining and Shop Machinery: Assist technicians with set-up/breakdown and machining of parts on our CNC machines.  Observe/learn basic operator skills for shop woodworking equipment (drill presses, table/cut-off saws, planers, joiners, lathes, and mills).\r\no\tShop Maintenance: Maintain a clean, uncluttered work area by returning tools/equipment to their proper locations, disposing of solvent, oil, and trash rags in proper containers, and keeping Foreign Object Debris (FOD) to a minimum in designated areas.\r\no\tTechnical Documentation: Keep daily log of work completed. Follow written procedures, drawings, and lay-up schedules when provided.  Follow formal/flight work documentation and procedures when required.\r\no\tCarpentry Support: Assist in construction of customized shipping/storage crates for various test articles using shop hand tools and woodworking equipment.\r\no\tParticipate in Team Collaboration: Participate in branch, safety, and technician meetings to discuss current projects and events.\r\no\tAdhere to Safety and Quality Standards: Complete NASA LaRC safety training courses, wear proper personal protective equipment when applicable.\u202f Work with Quality Assurance Specialist when working with flight hardware.",
-        "location": "Virginia",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001Kjy52AC",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Virtual - Deep Learning Classification of Kepler/TESS Transit Signals",
-        "description": "Kepler and TESS are critical missions to increase our understanding of how common earth-like planets and the chances of alien life are. These telescopes work based on transit photometry and their pipelines return a list of threshold crossing events (TCEs) whose light signature resemble a planet. However, not all TCEs are planet orbiting a star and they could be due instrument noise or other astrophysical phenomena. We have been exploring deep learning technology for automatic classification of TCEs and finding planets from non-TCEs. Using our in-house tools, we have been able to identify new planets (subject to confirmation). We also have identified multiple ways to improve the existing classifiers and we are looking for interns who can explore these new ways. This internship opportunity is very rewarding because the result will lead to the discovery of new exo-planets. We will also publish the results in prestigious journals. This is a great opportunity to get some visibility. Potential interns needs to know how to program in python and write deep learning codes. The intern is expected to help us developing parts of this project in Python. Tools we use for this project are scikit-learn and Keras (and TensorFlow). **** PLEASE DO NOT APPLY IF YOU DO NOT HAVE ANY EXPERIENCE WITH DEEP LEARNING MODELS AND THESE TOOLS. ****\r\n\r\n**Please note, if you are selected for participation in an internship, you will be required to visit a NASA center or facility for fingerprinting and identity verification. Accommodations can be requested for selected candidates with disabilities. NASA Centers and Facilities - https://science.nasa.gov/about-us/nasa-centers**",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001KoMf2AK",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: NASA Data Acquisition Software Suite Development",
-        "description": "This internship consists of developing software for data acquisition systems supporting propulsion testing activities at several NASA Centers including NASA Stennis Space Center, White Sands Test Facility, and Marshal Space Flight Center. The tasks may include but are not limited to writing software, debugging, troubleshooting, participating in and/or facilitating code inspections, writing and/or fixing unit tests, executing unit tests, researching performance issues, network protocols, analyzing automated test output, and assisting with enhancing an automated test framework. The student will be part of a development team that uses an Agile software development process. The student will have a mentor as well as a technical point of contact throughout the internship- both of which are available to address any questions. The intern will be assigned technical tasks from the technical point of contact. Training on the specific software development process tools that are used on the project will be provided. A project overview and background information will be provided to the intern as well.",
-        "location": "Mississippi",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001Kk4X2AS",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Pressure System Mechanical Integrity: Supports the SSC Pressure System Program",
-        "description": "Safety and Mission Assurance; QA01\tPressure System Mechanical Integrity: Supports the SSC Pressure System Program and Ensuring Equipment Fit-for-Service\r\nThe student will support the NASA Pressure System Manager. The student will also interact with the Bastion Pressure System Manager, Piping Engineer, Pressure Vessel Engineer, American Petroleum Institute (API) piping and vessels inspectors, and Nondestructive Testing (NDE) technicians. The student may participate in pressure system certification and examination efforts; may perform field work collecting data; may perform engineering assessment of changes of pressure systems and submit the changes for approval; may perform simple corrosion rate calculations and remaining safe life; verify accuracy of piping and instrumentation diagram, and many other ad hoc activities relating to pressure systems. The student will be exposed to Federal regulations, State regulations, Agency requirements, and Consensus Codes and Standards affecting pressure vessels and pressure systems.\tAssist with Testing and Data Collection; Maintenance & Calibration; Adhere to Safety and Quality Standards; Participate in Team Collaboration; Technical Documentation",
-        "location": "Mississippi",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001Kk692AC",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Prototype Fluid System",
-        "description": "Autonomous Systems Lab; AA04\tPrototype Fluid System\tCreating prototype fluid system with sensor and actuator interfaces to data acquisition & control system and G2/NPAS Digital Twin. Rationale: (1) Creates laboratory hardware system useful for demos; (2) Implementing a model system supports G2/NPAS training by providing actual hardware elements; (3) Building a simple fluid system lays groundwork for developing a more advanced ACM fluid system. \tPrototyping & Fabrication; Testing/Data Acquisition",
-        "location": "Mississippi",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001Kk7l2AC",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Fast Prototyping of Hybrid Communication Devices",
-        "description": "Reducing the turnaround time to fabricate test and/or replacement communication assemblies on the lunar surface will benefit from additive manufacturing processes that combine materials for enclosures, conductive elements for antennas, and other printed electronic elements. The project will explore available alternatives and make recommendations for advancing the state of the art. A sample prototype will be produced that combines at least two additive methods",
-        "location": "Mississippi",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001KkAz2AK",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: AR/VR for Science and Engineering",
-        "description": "Interns will be doing a variety of tasks related to developing augmented reality (AR) and virtual reality (VR) applications for science and engineering. We are developing a range of AR/VR software applications that benefit the scientists and engineers at NASA. They target all NASA science domains (Earth Science, Planetary Science, Astrophysics, Heliophysics), Exploration, and Engineering. The ideal candidate is a combination programmer/3D artist, combining the ability to create or improve 3D content as well as programming their behavior and user interactions. Previous experience developing with Unity (C#) and Unreal (C++, Blueprints) is highly desired. Experience with Blender, Substance Painter, or other 3D software is a plus.",
-        "location": "Maryland",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000g54v2AA",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Fabrication Technician & Operations Mentor for FIRST Robotics \u201cThe Pink Team\u201d",
-        "description": "NASA supports several FIRST Robotics Competition teams at each of the NASA centers. KSC supports team 233, \u201cThe Pink Team\u201d. NASA mentors along with mentors from across the Space Coast will engage with local high school students to design and build a complex competition robot.\r\n\r\nStudent will be a part of the KSC\u2019s house FIRST Robotics Competition team \u201cThe Pink Team\u201d. Specifically, the student will be helping lead the fabrication and operations side of the build. Tasks could include fabricating robot parts, schedule tracking, and assisting with the operational components of the team and completing deliverables.",
-        "location": "Florida",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001NrcX2AS",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Instrument Development for Heliospheric Particles",
-        "description": "The Energetic Particle Laboratory (EPL) within the Heliospheric Physics Division at GSFC develops novel instruments for the detection of charged and neutral particles.  EPL is currently developing silicon solid state detectors (SSDs) for the HERMES and IMAP missions as well as gamma-ray detectors for the TRYAD and BurstCube Missions and future mission concepts. In addition, EPL is designing state-of-the-art neutron spectrometers for solar, lunar and radiation monitoring applications.   The gamma-ray/neutron spectrometers are based on modern scintillators that are read out by arrays of silicon photomultipliers (SiPMs).  Currently, the team is developing in-house digital processing boards, evaluating the performance of SIPMs for space-based applications, and conducting calibrations with laboratory sources and beam tests.  Instrument development requires mechanical and electrical engineering support.   \r\nGSFC provides a variety of internships that allow student to participate in the research, design, development, testing and evaluation of front-end electronics, digital processing, and mechanical structure designs.  In addition, students can participate in the analysis of laboratory tests and performance studies of SIPMs. Students will also be able to perform instrument simulations and employ machine learning techniques for track reconstruction.  Scientists, engineers, and computer science students are encouraged to apply.",
-        "location": "Maryland",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000019wtp2AA",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: GRC-ATF MediaWiki Content Development",
-        "description": "This position will be onsite at the NASA Glenn Research Center Armstrong Test Facility (GRC-ATF) in Sandusky, Ohio. The selected intern will support knowledge management and digital transformation efforts as a part of the institutional information systems management (ISM) team at GRC-ATF. The ISM team manages station-wide data system architecture requirements, develops and maintains the knowledge management system and accompanying policies, ensures compliance with agency cybersecurity policies, and performs various other IT-related tasks across station.\r\n\r\nThe selected intern will be largely responsible for developing content within GRC-ATF\u2019s MediaWiki-based knowledge management system. The content may be written in plain text, wikitext, CSS, HTML, or JavaScript. Additional responsibilities may include providing user support, responding to system tickets, improving style and function of existing workflows, and providing various IT support throughout station.",
-        "location": "Ohio",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001OGhN2AW",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
         "name": "NASA: Space Club @ GSFC - Servicing of the Habitable World Observatory",
         "description": "The student will design a scale model of a robotic servicer for the Habitable Worlds Observatory (HWO) and 3D print the servicer and the HWO. Models of the full-scale servicer and HWO will be added to NASA's augmented reality (AR)/virtual reality (VR) system. These scale 3D printed and AR/VR models will be used to conduct engineering trade studies.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. \r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be 16 years of age by the starting date of the program;\r\n- Must be a U.S. citizen; \r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n\r\nParticipants will be required to be onsite from June 30 - August 8, working five days per week, without any time off.\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
         "location": "Maryland",
@@ -584,72 +13,6 @@
             "day": 15
         },
         "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001AVwP2AW",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Simulation Environment for Mobile Robots",
-        "description": "A MATLAB application will be developed for kinematic and dynamic analysis of mobile robots focusing on autonomous path planning and control. Autonomous mobile robots are being introduced in many space applications, including planetary sample collection and surface exploration. In the last several years, simulations became an important part of hardware development in the field of robotics and reinforcement learning (RL). Modern RL methods show incredible results with virtual robot models learning to avoid obstacles while exploring unknown terrains. Many of these test cases describe theoretical fields of application and are not yet used in a real environment. RL can learn from experiences and apply the learned knowledge to real life problems. However, the acquisition of training data for RL algorithms is one of the most challenging tasks. The goal of this project is to develop a reliable simulation environment with physical robot models to facilitate quicker and realistic RL algorithm development.",
-        "location": "Maryland",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001Jinx2AC",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Improving Security Dynamic Analysis via Intelligent Testing Agents (High School)",
-        "description": "Students will gain firsthand knowledge in how to test NASA system software specifically for security vulnerabilities using intelligent algorithms that make dynamic analysis more efficient and effective (e.g., greater code coverage). The students will learn basic the concepts and applications of dynamic analysis, they will learn artificial intelligence technologies and how to apply them, and the students will learn how to work within a team to produce products that contribute to the NASA mission.\r\n \r\nOne student will establish dynamic analysis approach for security-based testing on core flight system (cFS), the other high school student will build intelligent application that drives the testing and measure if and what the improvements made during testing. The University student will apply same approach on SOCCRATES in support of Artemis 2 testing ensuring that common security vulnerabilities are not present.",
-        "location": "West Virginia",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001R3aj2AC",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Embedded Systems Introduction (High School)",
-        "description": "Project will introduce students to the world of embedded systems programming to include some combination of working with robotics applications, real-time operating systems such as RTEMS, and learning verification and validation basics.",
-        "location": "West Virginia",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001R3dx2AC",
         "opens_applications": "open",
         "grade_level": [
             10,
@@ -703,221 +66,6 @@
         "price": 0
     },
     {
-        "name": "NASA: Sustainability & Energy Program Support",
-        "description": "Student will support the Goddard Sustainability  & Energy Program Manager at both the Greenbelt and Wallops campuses, and possibly HQ NASA. The work includes research, data collection, writing and communication skills, facility and site surveys, natural resources, energy and water conservation, environmental engineering, pollution prevention and recycling strategies, climate change adaptation, and strategic planning. Looking for a student who is interested in sustainability, including energy, civil, or environmental engineering. Projects include benchmarking Goddard sustainable buildings in Portfolio Manager, determine and submit buildings to be Energy Star certified, and complete HQ retro-commissioning fact sheets. The student will also support Envision sustainability certification of the WFF Causeway Bridge Replacement Project which will require the student to become familiar with the Institute for Sustainable Infrastructure (ISI) Envision Program. The student will help the Envision team plan and design a sustainable causeway bridge with minimal environmental impacts during construction, minimal operation and maintenance costs, and resilience to climate change. The student will baseline Goddard\u2019s carbon footprint and develop a methodology to track carbon emissions reductions to meet federal sustainability goals. The projects will develop the students interpersonal and communication skills requiring frequent interaction with NASA engineers, scientists and program managers. The data collected will provide crucial information enabling Goddard\u2019s leadership to determine the Center\u2019s progress towards meeting NASA\u2019s sustainability goals.",
-        "location": "Virginia",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000000OGEv2AO",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Optics for Space",
-        "description": "Optical design and analysis for future space based observatories and instruments.\r\n\r\nComputer/Software Skills:  (Matlab, Mathematica, Python, etc.).  Optical design software (CODE V, Zemax, OSLO, etc.).\r\nScientific and Technical Skills: Optics education preferred.",
-        "location": "Maryland",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001AiLm2AK",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Multimessenger Astronomy with Gamma-ray Bursts",
-        "description": "Search for multimessenger / multi-wavelength sources of gamma-ray burst (GRB) events. Data analysis of GRBs and other transients. Detector development studies for the next generation of gamma-ray burst instrumentation.\r\n\r\nPlease Note: Additional Skills \r\nProgramming experience required for Master\u2019s and Doctorate level students. Some background knowledge in astronomy, astrophysics, and/or statistics is encouraged. \r\nWorking in teams and independently, self-directed learning and troubleshooting.",
-        "location": "Alabama",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001ert32AA",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Components & Hardware Systems - GN&C EE/CE Systems Development",
-        "description": "The Components and Hardware Systems Branch specializes in the development of advanced Guidance Navigation and Control (GN&C) component technologies that enable current and future Flight Missions. The intern will work closely with NASA personnel to work on Sensors/Actuators Development for various Missions and Center R&D activities. For Electrical Engineering and Computer Engineering/Science this includes but is not limited to the development and test of Computer/microprocessors, Analog and Digital, Power conditioning electronics, RF and Communications, Modem development, FPGA/VHDL, Digital Signal Processing, etc. For Software development this includes but is not limited to Embedded systems and Algorithmic coding",
-        "location": "Maryland",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001dTET2A2",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Components & Hardware Systems - GN&C ME/AE Systems Development",
-        "description": "The Components and Hardware Systems Branch specializes in the development of advanced Guidance Navigation and Control (GN&C) component technologies that enable current and future Flight Missions. The intern will work closely with NASA personnel to work on Sensors/Actuators Development for various Missions and Center R&D activities. For Mechanical/Packaging & Aerospace this includes but is not limited to drafting of mechanical and electrical drawings; Structural, thermal, and thermo-mechanical analysis; Electromechanical and opto-mechanical design; Electronics Packaging and enclosure design; Manufacturing support; Assembly and Integration & Test; GN&C Performance Validation; GN&C Algorithm and Simulation Development.",
-        "location": "Maryland",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001dY1F2AU",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Wildland Fire Monitoring and Suppression: Field Evaluation Data Analysis",
-        "description": "Wildland fire monitoring and suppression can be aided significantly by aerial operations with drones. The ACERO project will be conducting a field evaluation of their airspace management service system in early 2025 to demonstrate data sharing capabilities. The student will be asked to analyze a good amount of field evaluation data and develop scripts and tools for calculating performance metrics and displaying data rates. Basic programming skills and familiarity with fundamental statistical principles are preferred.",
-        "location": "California",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001YZAr2AO",
-        "opens_applications": "open",
-        "grade_level": [
-            11
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Computer Vision and Navigation for Advanced Air Mobility",
-        "description": "Vision-based navigation is a promising Alternative Precision, Navigation, and Timing (APNT) solution for aircraft operating in GPS-degraded environments or areas with complete loss of GPS signals. As part of our ongoing efforts under the Aeronautics Research Mission Directorate, our flight test team has collected publicly available real-world video, lidar, and ground-truth data using drones and helicopters.\r\n\r\nThe intern will leverage this unique dataset to explore and evaluate computer vision techniques for feature detection and landmark identification, specifically tailored for approach and landing scenarios at heliports and vertiports. The project will focus on simulating vision-based navigation for Advanced Air Mobility (AAM), with an emphasis on the challenges of real-time processing in resource-constrained embedded systems. This project provides an excellent opportunity to contribute to cutting-edge research in vision-based navigation for AAM while gaining hands-on experience with real-world flight data, state-of-the-art algorithms, and technical communication through publications or presentations. The intern will contribute to this effort through a combination of technical analysis and hands-on application, including the following responsibilities:\r\n\r\n\u2022\tApplying and comparing various computer vision algorithms for feature detection to identify landmarks for landing.\r\n\u2022\tAnalyzing and benchmarking the performance of these algorithms under different operational conditions and computational constraints.\r\n\u2022\tPreparing technical documentation or presentations to share findings, which will establish benchmarks for the research community.\r\n\u2022\tProviding recommendations for future flight data collection campaigns, including flight scenarios, sensor configurations, and system enhancements.\r\n\u2022\tParticipating in the planning and execution of small Unmanned Aircraft Systems (sUAS) and helicopter flight tests to expand the dataset and gain field-testing experience, as needed.",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001iUrR2AU",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: NExCT Integrated Operating Picture",
-        "description": "This project is a FT virtual internship working on the Integrated Operational Picture for NExCT. Desirable interns will be high school students, have experience with software engineering and enjoy working with teams. \r\n\r\nDetailed Project Description:\r\nThis project is focused on services to support integrated operating pictures (IOP). In particular, the goal is to explore ML/AI techniques for supporting IOP. The project will explore different techniques, policies and objectives and implement GenAI service. \r\n\r\nMeeting frequency/project dynamics: \r\nOnce per week\r\n\r\nWorking hours: \r\nFull-time interns (40h/week) are expected to complete working hours during Ames\u2019 core work hours of M-F 8AM-5PM PST. \r\n\r\nComputer/Software skills:\r\nPython or Java or Go, Docker (optional)\r\n\r\nScientific/ Technical skills:\r\nRead research papers (optional)\r\n\r\nGeneral Skills- List any other skills needed. \r\nAbility to listen & seek clarity, work well with others",
-        "location": null,
-        "mode": [
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001jvkj2AA",
-        "opens_applications": "open",
-        "grade_level": [
-            10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Onsite/Virtual - NASA Ames Astrobee Facility",
-        "description": "NASA Ames Astrobee Facility Brief description of duties: The successful applicant would be involved with software development and general support of the NASA Ames Astrobee Facility. (www.nasa.gov/astrobee) Specifically, the successful applicant would initially be validating and developing C++/Java software for a Astrobee robot. Additional work may include ISS flight quality hardware and maintaining Astrobee Facility labs. \r\n\r\nThe applicant may be familiar with C++, Java, ROS software development and good coding practices. In general, we are looking for someone who is motivated, a self-starter, and capable of working independently on tasks.",
-        "location": "California",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001kIiv2AE",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Downstream task development and evaluation for a foundation model",
-        "description": "Foundation model is the core of ChatGPT and other generative machine learning models. However, it's advantage over traditional deep learning (DL) models hasn't been extensively studied in NASA remote sensing data domain. For this position, the selected candidate is expected to develop benchmark DL models for atmosphere related downstream tasks of an existing foundation model (SatVision-TOA), and evaluate/compare to understand whether SatVision-TOA model can bring extra benfits. The selected candidate will work with frontier ML experts at NASA Goddard and contribute to frontier science. The incumbent is expected to actively attend weekly discussions and provides progress updates. The candidate should have ML background. Some knowledge or experience with the transformer model is a plus.",
-        "location": "Maryland",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001kXTR2A2",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
         "name": "NASA: Space Club @ GSFC Greenbelt - Plasma Wave Dynamics",
         "description": "The proposed project aims to investigate the properties and spatial distribution of plasma waves observed simultaneously at different magnetic local times (MLT) using data from the Van Allen Probes mission. This twin-spacecraft mission provided unprecedented in situ observations of the Earth's radiation belts, enabling a comprehensive study of wave-particle interactions. Waves such as electromagnetic ion cyclotron (EMIC) waves, whistler-mode chorus, and ultra-low-frequency(ULF) waves play crucial roles in the dynamics of energetic particles, including their acceleration, transport, and precipitation. However, the generation, propagation, and effects of these waves often exhibit significant local time asymmetries due to variations in magnetospheric conditions, such as plasma density, geomagnetic field strength, and solar wind driving.\r\n\r\nBy leveraging the Van Allen Probes' spatially separated orbits, this project will analyze wave activity simultaneously across two different local time sectors. Key objectives include characterizing the frequency, amplitude, and polarization of the observed waves and identifying the conditions under which specific wave types dominate in different MLT regions. For example, EMIC waves are often stronger in the dusk-to-midnight sector, while whistler-mode chorus waves are prevalent in the dawn region. The project will explore how these waves evolve during quiet and geomagnetically disturbed intervals and their coupling with particle populations. The outcomes will enhance our understanding of radiation belt dynamics, wave-particle interactions, and magnetosphere-ionosphere coupling, providing critical insights for space weather prediction and mitigation strategies. This project aligns with advancing our knowledge of fundamental plasma processes in the near-Earth space environment.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
         "location": "Maryland",
@@ -956,28 +104,6 @@
         "opens_applications": "open",
         "grade_level": [
             10,
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Advanced computation and aerosol retrieval",
-        "description": "Aerosols, such as particulate pollution, dust, smoke and sea salt, play important roles in Earth's radiative balance, cloud and precipitation formation, fertilization of ecosystems, air quality and human health. Retrieval of aerosol parameters from space-based spectral radiometric measurements has been based on physical understanding of radiative transfer, particles and the environment that these particles inhabit. For decades, physically-based methods have produced a suite of highly useful products. However, physically-based methods work best when their assumptions are accurate, and tend to fail in situations where the real world and retrieval assumptions do not match well. Especially difficult for aerosol retrieval algorithms is the separation of aerosol from clouds, identifying the type of aerosol from space and parameterizing the surface reflectance beneath the aerosol layers. In this project, a group with experience in physically-based aerosol remote sensing wants to explore Machine Learning (ML) or other advanced computation techniques with a student experienced in Data Science and/or ML. Possible projects might involve applying ML to one component of the retrieval, such as separating aerosols from clouds, or detecting aerosol types from multispectral and/or multi-temporal satellite imagery.",
-        "location": "Maryland",
-        "mode": [
-            "in-person",
-            "virtual"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001XBNV2A4",
-        "opens_applications": "open",
-        "grade_level": [
             11,
             12
         ],
@@ -1072,27 +198,6 @@
         "price": 0
     },
     {
-        "name": "NASA: LISA Laser System Component Test Optimization",
-        "description": "GSFC is developing the Laser System (LS) for the LISA Mission.  The Laser System consists of many electro-optic components that need to be tested and characterized.  The polarization extinction ratio (PER) is one of the critical performance parameters that is measured during the component testing.  This project is to study and learn the basics of PER measurements for electro-optic component testing, and develop test software using Phyton or Labview to automate the test.",
-        "location": "Maryland",
-        "mode": [
-            "in-person"
-        ],
-        "season": "summer",
-        "deadline": {
-            "year": 2025,
-            "month": 2,
-            "day": 28
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001nFzp2AE",
-        "opens_applications": "open",
-        "grade_level": [
-            11,
-            12
-        ],
-        "price": 0
-    },
-    {
         "name": "NASA: Space Club @ GSFC Greenbelt - LISA Laser System Component Test Optimization",
         "description": "GSFC is developing the Laser System (LS) for the LISA Mission.  The Laser System consists of many electro-optic components that need to be tested and characterized.  The polarization extinction ratio (PER) is one of the critical performance parameters that is measured during the component testing.  This project is to study and learn the basics of PER measurements for electro-optic component testing, and develop test software using Phyton or Labview to automate the test.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
         "location": "Maryland",
@@ -1172,6 +277,336 @@
             "day": 15
         },
         "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001p5I12AI",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Aerosol Satellite Retrieval using Hybrid Approach",
+        "description": "Project Objective:\r\nThis project focuses on combining machine learning (ML) with traditional satellite aerosol retrieval techniques to enhance the accuracy, reliability, and applicability of satellite aerosol products. By integrating the strengths of both approaches, the goal is to address key challenges in aerosol retrieval, including data uncertainty, model assumptions, aerosol subtype detection, and retrievals in difficult environments.\r\n\r\nProject Scope:\r\nThe student will work on developing hybrid methodologies that leverage ML while retaining the physical principal of traditional aerosol retrieval methods. The areas of focus include:\r\n\r\nQuantifying Data Uncertainty:\r\nEnhancing uncertainty characterization by integrating ML models with traditional uncertainty estimation frameworks, providing robust error metrics for pixel level satellite-derived aerosol data.\r\n\r\nRefining Aerosol Model Assumptions:\r\nCombining ML-driven insights with traditional categorizing techniques to refine assumptions about aerosol properties such as size distribution, refractive index, and vertical profiles, resulting in more accurate retrievals.\r\n\r\nImproving Aerosol Subtype Detection:\r\nUtilizing ML classification techniques alongside traditional optical property analysis to enhance the detection and differentiation of aerosol subtypes (e.g., dust and smoke) using combined passive and active satellite observations.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD.\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001vUaH2AU",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - ML/AI for GEOS Chemistry Climate Model",
+        "description": "This project aims to provide opportunities for interested students to learn about the GEOS Chemistry Climate Model (GEOSCCM), perform existing model output data analysis to understand atmospheric composition for the 21st century, and to use Machine Learning/Artificial Intelligence (ML/AI) to improve and optimize GEOSCCM simulation speed. Ozone is one of the most important trace gases in our atmosphere. It acts as an invisible shield and protects us from harmful ultraviolet (UV) radiation from the sun. Ozone near the surface is a pollutant that affects air quality. Accurate representation of ozone and its chemistry using 3-Dimensional atmospheric chemistry model has important implications for composition, climate, and surface air quality. The GEOSCCM is NASA\u2019s state-of-the-art model designed to simulate ozone and the potential feedbacks between the atmosphere\u2019s composition and the state of the climate in the 21st century. \r\n\r\nPreferences will be given to candidates that are familiar with Machine Learning/Artificial Intelligence, Python, IDL or similar graphic analysis software, and Jupyter Notebook and cloud computing.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD.\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000024xYD2AY",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Optical Ray Trace Modeling",
+        "description": "Every Agency & Corporation that has designed or simulated radiometric phenomena, thermal self-emissions or optical systems/instruments has required Bidirectional Scatter Distribution Functions (BSDF) of many, many types of optomechanical surfaces (which vary greatly according to materials, coatings, even contamination and machining methods) in non-sequential ray trace modeling.\r\n\r\nThe data comes in many forms from vendors, test facilities or internally; by measurement, test data and sometimes published charts. These BSDF data products must be converted to a format that can be input into FRED Optical Analysis Software or Zemax Optics Studio (ZOS) and then verified by simulating an ideal computer-based scatterometer making measurements from a representative sample coupon. Archiving data in this usable form will save a good deal of time and money on future programs requiring stray light, illumination, imaging and radiometric analyses.\r\n\r\nThis effort already has a good deal of available data which a student with Python/Matlab skills could process to render the data in a useable format for FRED/ZOS. I've already constructed a simulation of a scatterometer (e.g. such as one built by The Scatter Works (Bozeman, MT) or CASI (Tuscon, AZ)) which the student may use to verify the conversion and compare with original measurement(s). SolidWorks CAD modeling could be utilized as well.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD.\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000022v142AA",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Dragonfly Support",
+        "description": "The Dragonfly mission to Saturn's Moon Titan will carry a mass spectrometer to measure surface composition. The instrument is currently in development at Goddard Space Flight Center, and will begin it's integration and test (I&T) process soon. The student will work with DraMS leadership team to support tasks related to I&T, which may include rapid prototyping, coordinating with multiple engineering groups, as well as other support science tasks.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001vi0X2AQ",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - SCaN Infrared Cloud Imaging",
+        "description": "The student will assist laser communications engineers with hardware, software, or modeling systems that interact with infrared light in the 1500nm range. This position is flexible and may cover a variety of types of work, including but not limited to:\r\n- reviewing the design and implementation of an infrared camera system that will monitor the sky to determine the impact of clouds\r\n- implement a weather station that will record and communicate weather conditions off-the-shelf components\r\n- use computer vision to characterize cloud cover and its impact on laser links\r\n- set up equipment on optical test benches for testing and demonstrations\r\n- analysis of infrared camera data, laser link history, and other spacecraft telemetry\r\nAdditional options tangential to this work may be explored based on student interest and aptitude.\r\n\r\nThis may involve occasional evening work at the Goddard's Geophysical and Astronomical Observatory. **This is a FULLY ON-SITE experience in Greenbelt, MD. **\r\n\r\nCandidates MUST display strong programming fundamentals.\r\nThe ideal candidate will display optical/laser physics fundamentals and familiarity with observatory equipment. Familiarity with the Raspberry Pi (RPi) platform and RPi peripherals are a plus. Experience in web development is a plus.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000021ow52AA",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - SCaN Development of Monitor and Control Interfaces",
+        "description": "The RF Compatibility Test Area (CTA) is a team of engineers that test the RF communication subsystems of future spacecraft to ensure compatibility with NASA's Near Space Network. These tests are conducted with portable test sets consisting of various test equipment and ground station systems. The focus of this opportunity will be implementing monitor and control of this test set equipment using COSMOS, an open source command and control software designed for flight project support. The student will be responsible for becoming familiar with the test equipment and how it is used to in order to design solutions that improve the efficiency, repeatability, and/or accuracy of testing. The project will include integrating hardware, designing user interfaces in COSMOS, and creating scripts to automate common procedures in COSMOS while working with CTA engineers to understand program needs.\r\n\r\n**This is a FULLY ON-SITE experience in Greenbelt, MD. **\r\n\r\nCandidates must:\r\n-Have experience with scripting languages such as Ruby or Python\r\n-Be familiar with network interfaces and how to interface with hardware\r\n-Have experience with Git and software version control\r\n\r\nIdeal candidates should:\r\n-Be familiar with software design best practices and exercising them\r\n-Be able to work on a team with other developers working on a common project\r\n-Be familiar with RF communication principles and instruments (Spectrum Analyzers, Oscilloscopes, Power Meters)\r\n-Have experience with Ruby and/or COSMOS 5\r\n-Have experience designing software for controlling lab instruments\r\n-Be familiar with network and hardware interface protocols such as TCP/IP, SCPI, and SNMP\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000021o852AA",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Machine Learning Platform Development",
+        "description": "This project focuses on the development of a machine learning (ML) platform designed to help scientists learn and apply ML techniques to their specific areas of interest. The primary task will involve building an image classification model using the MNIST database, guiding users through the fundamental steps of ML. This includes tasks such as preprocessing data to ensure it is clean and ready for analysis, designing and training a neural network using tools like TensorFlow or PyTorch, fine-tuning parameters to optimize model performance, and evaluating the model\u2019s accuracy. You may also have the opportunity to create additional examples to showcase the flexibility of ML techniques, helping users explore topics like data augmentation, neural network design, and practical strategies for analyzing model performance.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001n5nZ2AQ",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Long Range  Transport of Air Pollution",
+        "description": "Air pollutants such as nitrogen dioxide (NO2) and sulfur dioxide (SO2) adversely affect air quality, public health, and the ecosystems. They are largely emitted from human activities such as power generation and transportation (and from volcanoes, in the case of SO2). While these air pollutants are typically short-lived, with a lifetime of just hours to days in the atmosphere, they can travel over thousands of kilometers under favorable meteorological conditions. This process, referred to as long-range transport, can turn air pollution from a local phenomenon into a global environmental issue. NASA\u2019s earth observing satellites provide global observations of several air pollutants including NO2 and SO2, thus offering opportunities to monitor, track, and assess the impact of long-range transport.\r\n\r\nThe student in this project will use NASA satellite data to study long-range transport of air pollution. The focus will be on a cluster of large power plants in South Africa that is a known major source of NO2 and SO2. The intern will use and develop computer software to visualize NO2 and SO2 data from satellites and other relevant datasets, identify and track long-range transport events, and conduct statistical analysis on the identified events. The student will also explore machine learning based techniques to automate the detection and tracking of such events. During the project, the student can expect to work with and receive guidance from scientists who are experienced in satellite remote sensing, data analysis, and machine learning.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001nMJl2AM",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Remote Sensing and Aerosol Retrieval",
+        "description": "Aerosols, such as particulate pollution, dust, smoke and sea salt, play important roles in Earth's radiative balance, cloud and precipitation formation, fertilization of ecosystems, air quality and human health. Retrieval of aerosol parameters from space-based spectral radiometric measurements has been based on physical understanding of radiative transfer, particles and the environment that these particles inhabit. For decades, physically-based methods have produced a suite of highly useful products. However, physically-based methods work best when their assumptions are accurate, and tend to fail in situations where the real world and retrieval assumptions do not match well. Especially difficult for aerosol retrieval algorithms is the separation of aerosol from clouds, identifying the type of aerosol from space and parameterizing the surface reflectance beneath the aerosol layers. In this project, a group with experience in physically-based aerosol remote sensing wants to explore Machine Learning (ML) or other advanced computation techniques with a student experienced in Data Science and/or ML. Possible projects might involve applying ML to one component of the retrieval, such as separating aerosols from clouds, or detecting aerosol types from multispectral and/or multi-temporal satellite imagery.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD.\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001orNC2AY",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Goddard  NASA Communications and Engagement",
+        "description": "NASA\u2019s Goddard Space Flight Center (GSFC) Office of Communications is seeking a motivated high school student to support public engagement efforts and visitor center activities. This opportunity provides an exciting opportunity to contribute to NASA\u2019s mission by helping inform and inspire the public, VIP visitors, and special guests through tours, presentations, and hands-on engagement.\r\n\r\nKey Responsibilities:\r\n-Assist with VIP visits and high-profile tours, including preparing materials, coordinating logistics, and supporting NASA staff.\r\n-Work at the Goddard Visitor Center, engaging with the public, answering questions, and helping facilitate interactive exhibits and educational experiences.\r\n-Support the planning and execution of public engagement events, both on-site and virtual, including panel discussions, STEM outreach, and interactive demonstrations.\r\n-Help prepare presentations, tour scripts, and outreach materials for internal and external visitors.\r\n-Assist in coordinating internal and external engagement activities, such as employee engagement events, community outreach, and educational programming.\r\n-Participate in team meetings and brainstorming sessions, providing ideas and logistical support for visitor experiences and engagement initiatives.\r\n-Other duties as assigned to support the mission of the Office of Communications.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD.\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002145F2AQ",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Electrical Power Systems",
+        "description": "The Electrical Power Systems Opportunity within Code 563 (Power Systems Branch) would provide mentorship and laboratory support to various NASA and Code 563 tasks, such as lab/equipment management, electronic parts inventory, and 3D printing support.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD.\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001q1yj2AA",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Wallops - Launch Range Ground Operations",
+        "description": "The Ground Operations Summer opportunity will support a variety of spaceflight missions at NASA Wallops Flight Facility (WFF) Launch Range. Ground Operations focuses on ground systems operation and maintenance used in the processing of spacecraft and launch vehicles. Students will learn about fluid commodities used in spacecraft propulsion, how to operate the systems delivering these commodities, and how to certify these commodities. This will give students exposure across many STEM disciples, including mechanical, chemical, and electrical engineering, and analytical chemistry. Students will participate in a hands-on learning experience and will work in a variety of environments (indoor, outdoor, laboratory, cleanrooms, control centers, etc.). Classroom safety training for pneumatic, propellant, cryogenic, and life support systems will also be offered. Students will be expected to demonstrate professionalism across diverse work settings and groups. By the completion of the project, students will have a basic understanding of a NASA spaceflight program lifecycle, tradeoffs between different launch vehicles, launch site vehicle and payload integration processes, system engineering, and day-of-launch operations.\r\n\r\nEligible applicants for this project must reside within 50 miles of the Wallops Flight Facility in Wallops Island, VA.\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001q4Bp2AI",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Supply Chain Quality",
+        "description": "The Supply Chain Quality participant will be responsible for assisting the GSFC Supply Chain Quality team in meeting the Safety & Mission Assurance (SMA) Directorate\u2019s Supply Chain Risk Management (SCRM) objectives. This individual will have the opportunity to be a part of the daily Supply Chain Quality management activities, supplier research and analysis, including reporting, supplier data analytics, and supplier management.\r\n\r\nSUMMARY OF KEY RESPONSIBILITIES:\r\n\u2022 Participate in regular supply chain team planning meetings.\r\n\u2022 Assist/Support Supply Chain Quality Management activities on a daily basis.\r\n\u2022 Assist in development of Supply Chain Quality/Risk Management Web pages and content (e.g. supply chain team information, project resources, etc.)\r\n\u2022 Access and navigate Meta/Supply Chain Insight Central (SCIC) Supply database, tracking, reporting, and data analytics , and other applications in support of Supply Chain Quality Team activities.\r\n\u2022 Assist in the research, analysis, and generating reports to provide insight into the management, operations, availability and performance of current / potential suppliers for GSFC projects and associated concerns, and supply chain risks and issues.\r\n\u2022 Perform data collection, spreadsheet creation, and data analysis, and develop supplier related data dashboards.\r\n\u2022 Contribute to process and procedure documents for critical supply chain functions.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD.\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001q4uz2AA",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Greenbelt - Prototyping Large Language ESDIS",
+        "description": "Some years ago, Earthdata Search (EDSC) deprecated its Natural Language Processing (NLP) due to inaccuracies in the results of the COTS products used. NASA SMD has recently lamented the lack of NLP capabilities in EDSC and the Common Metadata Repository (CMR). The ability to provide a ChatGPT-like user interface to the CMR or Earthdata as a whole would greatly aid the discovery of NASA earth science data. A prototype/proof of concept activity could be used as a springboard for providing such a capability. We could learn from and collaborate with the NASA Copilot team on behalf of ESDIS to leverage knowledge that could improve earth science data discovery.\r\n\r\nEligible applicants for this project must reside within 50 miles of Goddard Space Flight Center in Greenbelt, MD\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Maryland",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001xyaf2AA",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Space Club @ GSFC Wallops - Balloon Program Support",
+        "description": "This project encompasses various activities in support of the Balloon Program Office at the Wallops Flight Facility.\r\n\r\nThe position will be tailored based on the applicant's skills and experiences, but opportunities for cross-discipline training will be included. CLEARLY LIST ANY EXPERIENCE/SKILLS YOU HAVE WITH THE TASKS BELOW.\r\n\r\nAnticipated tasks may include:\r\n- establishing useful and highly functional Sharepoint pages\r\n- communicating with external partners\r\n- physical file and digital file management\r\n- programming science hardware and automated administration functions\r\n- operating basic materials lab equipment\r\n- photo editing and web content creation\r\n- research and documentation on new technology and past data\r\n- brainstorming solutions to technical and program administration challenges\r\n- making coffee (j/k... maybe)\r\n- generating lesson plans for balloon-related STEM activities for young students\r\n- documenting actions during \"brain dump\" meetings\r\n\r\nEligible applicants for this project must reside within 50 miles of the Wallops Flight Facility in Wallops Island, VA.\r\n\r\n------------------------------------------------------------------------------------------------------------\r\n\r\nGoddard Space Flight Center (GSFC) has partnered with the National Space Club & Foundation to offer a six-week program for High School students within a 50 mile radius of GSFC Greenbelt or Wallops Flight Facility (WFF). The Space Club program provides students an in-person educational opportunity at NASA. Participants will be required to be onsite from June 30 - August 8, working five days per week, without any time off. Students will not work on July 4, which is a federal holiday.\r\n\r\nFor the list of all Summer 2025 Space Club Scholars projects, visit https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nTo be eligible for this program, students must meet the following criteria:\r\n- At time of application: 10, 11, 12 grade and in good standing; Must have completed Sophomore year in high school by the starting date of the program;\r\n- Must be a U.S. citizen;\r\n- Must live and maintain a permanent residence within commuting distance (50 miles) of the NASA Goddard Space Flight Center, Greenbelt, MD, or the NASA Wallops Flight Facility, Wallops Island, VA;\r\n- Minimum 3.0 GPA (unweighted) on a 4.0 scale\r\n- Must be 16 years of age by June 30, 2025. For students that are 15 at time of application see NOTE below.\r\n\r\n**************** NOTE if 15 Years Old at Time of Application******************\r\nThe Space Club Scholars program is open to students who are 16 by the start of the program on June 30, 2025. Due to a system limitation, students who are 15 at time of application are restricted from submitting applications directly to the individual project(s). Students who are 15 may have two options.\r\n\r\nOption 1. If you are 15 but will turn 16 before the application deadline, March 15, 11:59 p.m., you can wait to apply to each project until you turn 16. This is the preferred option; however, you may also apply with Option 2. For Option 1, you will upload a current transcript and resume to your profile and submit an application to every project that you are interested. See the full list of projects at this website: https://www.nasa.gov/goddard/stem/space-club-scholars-program/\r\n\r\nOption 2. If you are 15 but will turn 16 between March 16-June 30, then this is your only option to apply for the Space Club program. For Option 2, you will upload a current transcript, resume, and list of projects you are interested in to the following opportunity, \"Space Club @ GSFC Greenbelt & Wallops\": https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001euED/.\r\n\r\n**********************************************************************************\r\n\r\nFor more information about the Space Club Scholars program, contact the coordinator, Jeremy Davis, jdavis@spaceclub.org, or https://www.spaceclub.org/education/scholars.html",
+        "location": "Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "summer",
+        "deadline": {
+            "year": 2025,
+            "month": 3,
+            "day": 15
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000001vGHB2A2",
         "opens_applications": "open",
         "grade_level": [
             10,
