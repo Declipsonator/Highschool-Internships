@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "name": "NASA: Prototype Fluid System",
+        "description": "Autonomous Systems Lab; AA04\tPrototype Fluid System\tCreating prototype fluid system with sensor and actuator interfaces to data acquisition & control system and G2/NPAS Digital Twin. Rationale: (1) Creates laboratory hardware system useful for demos; (2) Implementing a model system supports G2/NPAS training by providing actual hardware elements; (3) Building a simple fluid system lays groundwork for developing a more advanced ACM fluid system. \tPrototyping & Fabrication; Testing/Data Acquisition",
+        "location": "Mississippi",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002XvSz2AK",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
+    }
+]

@@ -7,4 +7,4 @@ If you find that an internship needs to be updated or removed, please help us ma
 ## Internship Opportunities
 | Name | Description | Location  | Mode | Season | Application Deadline | Application Opens | Eligible Grades | Cost |
 |------|-------------|:---------:|:----:|:------:|:--------------------:|:-----------------:|:---------------:|:----:|
-
+| [NASA: Prototype Fluid System](https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002XvSz2AK) | Autonomous Systems Lab; AA04	Prototype Fluid System	Creating prototype fluid system with sensor and ... | Mississippi | In&#8209;person | Fall | 5/16/2025 | Open | 12 | 0 |
