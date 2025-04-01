@@ -18,5 +18,25 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: High Temperature Materials and Structures",
+        "description": "Students will assist with the development of high-temperature (T > 2000\u00b0F) materials and structures for hypersonic vehicles. The primary material systems of interest are carbon/carbon (C/C) and ceramic matrix composites (CMC). This is a multi-disciplinary effort involving heat transfer, aerodynamic heating, thermal and mechanical testing, environmental testing, coatings, and materials and structures, all focused toward the development of thermal protection systems and hot structures for hypersonic vehicles. The work may involve high-temperature testing in several different facilities, and possibly some numerical analysis. Especially interested in graduate students who want to come for several sessions during their graduate program (may initiate during undergraduate) to research topics in C/C and CMCs such as isotropy, fracture toughness, bearing strength, high temperature test methods, failure modes, active oxidation, etc.",
+        "location": "Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002czSj2AI",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
     }
 ]
