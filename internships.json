@@ -38,5 +38,26 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: AI & ML for Air Traffic Management",
+        "description": "This project explores the use of innovative and emerging applications of AI/ML (e.g., Natural Language Processing) to digitize and analyze heritage air traffic management (ATM) datasets. Given the rich volume of available text, audio and track data and the complexity of the problem space, this is an ideal candidate for the application of machine learning. The research is focused on optimizing current day flight operations e.g., to perform runway configuration management and analyze Traffic Management Initiatives (TMIs). The work will help build semi-automated recommender services that can assist complex decision making currently made by FAA specialists and subject matter experts.",
+        "location": "California",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002YSDd2AO",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
