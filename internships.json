@@ -59,5 +59,26 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: LSMS Software Development Intern",
+        "description": "Intern(s) will be assisting with the development and migration of software developed for a small-scale prototype of the LSMS-L35, a 1m tall lightweight crane designed for heavy construction tasks on the lunar surface, to the LSMS-L1000 which is a 4m tall version. Depending on the skillset of the student they may contribute to projects including but not limited to the, configuration and commissioning of the motion and sensing systems for the LSMS-L1000, verification of the dynamic model of the LSMS and control systems in simulation, development of new control software for the LSMS architecture, design and development of end effectors for various tasks. \r\n\r\nConsidering the software focus of this project a prospective student should have working knowledge of version control systems (Git), Linux, Ros2, C++, kinematic and dynamic modeling, a multibody physics tool (Gazebo Ign preferably), and interfacing between embedded and general computer systems.",
+        "location": "Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002oaDd2AI",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
     }
 ]
