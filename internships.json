@@ -80,5 +80,25 @@
             12
         ],
         "price": 0
+    },
+    {
+        "name": "NASA: NASA Data Acquisition Software Suite Development",
+        "description": "This internship consists of developing software for data acquisition systems supporting propulsion testing activities at several NASA Centers including NASA Stennis Space Center, White Sands Test Facility, and Marshal Space Flight Center. The tasks may include but are not limited to writing software, debugging, troubleshooting, participating in and/or facilitating code inspections, writing and/or fixing unit tests, executing unit tests, researching performance issues, network protocols, analyzing automated test output, and assisting with enhancing an automated test framework. The student will be part of a development team that uses an Agile software development process. The student will have a mentor as well as a technical point of contact throughout the internship- both of which are available to address any questions. The intern will be assigned technical tasks from the technical point of contact. Training on the specific software development process tools that are used on the project will be provided. A project overview and background information will be provided to the intern as well.",
+        "location": "Mississippi",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002pPeL2AU",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
     }
 ]
