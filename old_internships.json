@@ -1,1 +1,124 @@
-[]
+[
+    {
+        "name": "NASA: Prototype Fluid System",
+        "description": "Autonomous Systems Lab; AA04\tPrototype Fluid System\tCreating prototype fluid system with sensor and actuator interfaces to data acquisition & control system and G2/NPAS Digital Twin. Rationale: (1) Creates laboratory hardware system useful for demos; (2) Implementing a model system supports G2/NPAS training by providing actual hardware elements; (3) Building a simple fluid system lays groundwork for developing a more advanced ACM fluid system. \tPrototyping & Fabrication; Testing/Data Acquisition",
+        "location": "Mississippi",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002XvSz2AK",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: High Temperature Materials and Structures",
+        "description": "Students will assist with the development of high-temperature (T > 2000\u00b0F) materials and structures for hypersonic vehicles. The primary material systems of interest are carbon/carbon (C/C) and ceramic matrix composites (CMC). This is a multi-disciplinary effort involving heat transfer, aerodynamic heating, thermal and mechanical testing, environmental testing, coatings, and materials and structures, all focused toward the development of thermal protection systems and hot structures for hypersonic vehicles. The work may involve high-temperature testing in several different facilities, and possibly some numerical analysis. Especially interested in graduate students who want to come for several sessions during their graduate program (may initiate during undergraduate) to research topics in C/C and CMCs such as isotropy, fracture toughness, bearing strength, high temperature test methods, failure modes, active oxidation, etc.",
+        "location": "Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002czSj2AI",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: AI & ML for Air Traffic Management",
+        "description": "This project explores the use of innovative and emerging applications of AI/ML (e.g., Natural Language Processing) to digitize and analyze heritage air traffic management (ATM) datasets. Given the rich volume of available text, audio and track data and the complexity of the problem space, this is an ideal candidate for the application of machine learning. The research is focused on optimizing current day flight operations e.g., to perform runway configuration management and analyze Traffic Management Initiatives (TMIs). The work will help build semi-automated recommender services that can assist complex decision making currently made by FAA specialists and subject matter experts.",
+        "location": "California",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002YSDd2AO",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: LSMS Software Development Intern",
+        "description": "Intern(s) will be assisting with the development and migration of software developed for a small-scale prototype of the LSMS-L35, a 1m tall lightweight crane designed for heavy construction tasks on the lunar surface, to the LSMS-L1000 which is a 4m tall version. Depending on the skillset of the student they may contribute to projects including but not limited to the, configuration and commissioning of the motion and sensing systems for the LSMS-L1000, verification of the dynamic model of the LSMS and control systems in simulation, development of new control software for the LSMS architecture, design and development of end effectors for various tasks. \r\n\r\nConsidering the software focus of this project a prospective student should have working knowledge of version control systems (Git), Linux, Ros2, C++, kinematic and dynamic modeling, a multibody physics tool (Gazebo Ign preferably), and interfacing between embedded and general computer systems.",
+        "location": "Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002oaDd2AI",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: NASA Data Acquisition Software Suite Development",
+        "description": "This internship consists of developing software for data acquisition systems supporting propulsion testing activities at several NASA Centers including NASA Stennis Space Center, White Sands Test Facility, and Marshal Space Flight Center. The tasks may include but are not limited to writing software, debugging, troubleshooting, participating in and/or facilitating code inspections, writing and/or fixing unit tests, executing unit tests, researching performance issues, network protocols, analyzing automated test output, and assisting with enhancing an automated test framework. The student will be part of a development team that uses an Agile software development process. The student will have a mentor as well as a technical point of contact throughout the internship- both of which are available to address any questions. The intern will be assigned technical tasks from the technical point of contact. Training on the specific software development process tools that are used on the project will be provided. A project overview and background information will be provided to the intern as well.",
+        "location": "Mississippi",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002pPeL2AU",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Data Analytics Summer 2025 Intern",
+        "description": "We are looking for a creative and motivated applicant to assist the Flight Demonstrations and Capabilities (FDC) Project Management team in collection, integration, and analysis of diverse data sets including but limited to technical, financial, and risk information. The Intern will create a data driven dashboard to provide insight on status of various project elements. Intern will assist in developing metrics to measure performance and quality of project execution. Through this experience, the intern will learn or improve on skills in the areas of data modeling and visualization, storytelling with data, and data driven decision making.\r\n\r\nTools such as Power BI and other tools can be used to integrate data from current schedules and budget related data sets to provide meaningful and actionable information. Most raw data will be in MS Project and MS Excel formats, located both on SharePoint and local PCs/OneDrive. The goal will be to link raw data to a dashboard data summary as well as automatically update MS PowerPoint slides so they are always up-to-date. It would be a bonus, if the intern could utilize Artificial Intelligence (AI) tools (such as ChatGPT GOV) to generate different levels of summaries and highlights based on email, teams, and other source information.  \r\n\r\nThe FDC Project is responsible for a variety of flight research projects, such as SCHAMROQ, which stands for Schlieren, Airborne Measurements, and Range Operations for Quiet SuperSonic Technology (Quesst), that will support X-59 flight activities. Additionally, the project supports a fleet of support aircraft, including 2 F-15s and 3 F-18s, and facilities that perform aircraft mechanical and thermal ground testing, aircraft simulators, and radar and optical tracking in support of flight activities.  \r\n\r\nCOMPUTER/SOFTWARE SKILLS: Excel (including the use and creation of pivot tables), PowerPoint, databases, Power BI, Project, Tableau (desired by not necessary), and Microsoft Office. \r\n\r\nOTHER SKILLS: Have good analytical skills. A good problem solver that is detailed oriented. Have a passion for data along with good communication skills. Self-starter. \r\n\r\n**This project is for full time (640) hours,",
+        "location": "California",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000035xnJ2AQ",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
+    }
+]
