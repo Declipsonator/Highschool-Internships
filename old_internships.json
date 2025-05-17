@@ -1,5 +1,69 @@
 [
     {
+        "name": "NASA: Data Analytics Summer 2025 Intern",
+        "description": "We are looking for a creative and motivated applicant to assist the Flight Demonstrations and Capabilities (FDC) Project Management team in collection, integration, and analysis of diverse data sets including but limited to technical, financial, and risk information. The Intern will create a data driven dashboard to provide insight on status of various project elements. Intern will assist in developing metrics to measure performance and quality of project execution. Through this experience, the intern will learn or improve on skills in the areas of data modeling and visualization, storytelling with data, and data driven decision making.\r\n\r\nTools such as Power BI and other tools can be used to integrate data from current schedules and budget related data sets to provide meaningful and actionable information. Most raw data will be in MS Project and MS Excel formats, located both on SharePoint and local PCs/OneDrive. The goal will be to link raw data to a dashboard data summary as well as automatically update MS PowerPoint slides so they are always up-to-date. It would be a bonus, if the intern could utilize Artificial Intelligence (AI) tools (such as ChatGPT GOV) to generate different levels of summaries and highlights based on email, teams, and other source information.  \r\n\r\nThe FDC Project is responsible for a variety of flight research projects, such as SCHAMROQ, which stands for Schlieren, Airborne Measurements, and Range Operations for Quiet SuperSonic Technology (Quesst), that will support X-59 flight activities. Additionally, the project supports a fleet of support aircraft, including 2 F-15s and 3 F-18s, and facilities that perform aircraft mechanical and thermal ground testing, aircraft simulators, and radar and optical tracking in support of flight activities.  \r\n\r\nCOMPUTER/SOFTWARE SKILLS: Excel (including the use and creation of pivot tables), PowerPoint, databases, Power BI, Project, Tableau (desired by not necessary), and Microsoft Office. \r\n\r\nOTHER SKILLS: Have good analytical skills. A good problem solver that is detailed oriented. Have a passion for data along with good communication skills. Self-starter. \r\n\r\n**This project is for full time (640) hours,",
+        "location": "California",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000035xnJ2AQ",
+        "opens_applications": "open",
+        "grade_level": [
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: Deep Learning Classification of Kepler/TESS Transit Signals",
+        "description": "Kepler and TESS are critical missions to increase our understanding of how common earth-like planets and the chances of alien life are. These telescopes work based on transit photometry and their pipelines return a list of threshold crossing events (TCEs) whose light signature resemble a planet. However, not all TCEs are planet orbiting a star and they could be due instrument noise or other astrophysical phenomena. We have been exploring deep learning technology for automatic classification of TCEs and finding planets from non-TCEs. Using our in-house tools, we have been able to identify new planets (subject to confirmation). We also have identified multiple ways to improve the existing classifiers and we are looking for interns who can explore these new ways. This internship opportunity is very rewarding because the result will lead to the discovery of new exo-planets. We will also publish the results in prestigious journals. This is a great opportunity to get some visibility. Potential interns needs to know how to program in python and write deep learning codes. The intern is expected to help us developing parts of this project in Python. Tools we use for this project are scikit-learn and Keras (and TensorFlow). **** PLEASE DO NOT APPLY IF YOU DO NOT HAVE ANY EXPERIENCE WITH DEEP LEARNING MODELS AND THESE TOOLS. ****\r\n\r\n**Please note, if you are selected for participation in an internship, you will be required to visit a NASA center or facility for fingerprinting and identity verification. Accommodations can be requested for selected candidates with disabilities. NASA Centers and Facilities - https://science.nasa.gov/about-us/nasa-centers**",
+        "location": "California",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000035xqX2AQ",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: JWST Cosmic Ray Rejection using ML",
+        "description": "With the launch of James Webb Space Telescope (JWST), a new era of astronomical discoveries was made possible. One bottleneck in the effective utilization of JWST and similar future telescopes, however, is the removal of data contaminated with cosmic rays that hit the detectors. Part of the data preprocessing and reduction involves dealing with noise generated by processes that include dark current, readout, and cosmic rays. During the readout process, successive frames are averaged and aggregated using an up-the-ramp readout scheme. For each pixel, the increase from one frame to the other follows a given rate, but cosmic ray hits lead to a sudden jump (see Figure 1 in [1] for a generic illustration of the up-the-ramp readout scheme). Current methods involve a manual examination of different rejection thresholds to find one that provides the best results for the intended observation (see [2] for a description of the current algorithm used in the JWST pipeline to detect these jumps). This time-consuming and inefficient process slows down the returned science.\r\nThe goal of this project is to design and apply a machine learning algorithm in an unsupervised setting that can learn from the data to detect these jumps between frames and thus identify pixels hit by cosmic ray jumps. The intern will work closely with the mentor and other collaborators, discussing/implementing possible techniques to solve this challenge. The candidate must be proficient in Python and have experience with libraries related to machine learning, deep learning, and data processing such as TensorFlow, Keras, Scikit-learn, SciPy. Experience dealing with astronomical data and high-performance computing are preferred.\r\n \r\nReferences\r\n \r\n[1] https://jwst-docs.stsci.edu/understanding-exposure-times#UnderstandingExposureTimes-uptheramp, accessed 10/20/2022\r\n[2] https://jwst-pipeline.readthedocs.io/en/stable/jwst/jump/description.html, accessed 10/20/2022\r\n\r\n*Make sure to apply only if you are fluent in Python coding and has experience in deep learning. Otherwise, there is no chance.\r\n\r\n**Please note, if you are selected for participation in an internship, you will be required to visit a NASA center or facility for fingerprinting and identity verification. Accommodations can be requested for selected candidates with disabilities. NASA Centers and Facilities - https://science.nasa.gov/about-us/nasa-centers**",
+        "location": "California",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ00000363mH2AQ",
+        "opens_applications": "open",
+        "grade_level": [
+            10,
+            11,
+            12
+        ],
+        "price": 0
+    },
+    {
         "name": "NASA: Prototype Fluid System",
         "description": "Autonomous Systems Lab; AA04\tPrototype Fluid System\tCreating prototype fluid system with sensor and actuator interfaces to data acquisition & control system and G2/NPAS Digital Twin. Rationale: (1) Creates laboratory hardware system useful for demos; (2) Implementing a model system supports G2/NPAS training by providing actual hardware elements; (3) Building a simple fluid system lays groundwork for developing a more advanced ACM fluid system. \tPrototyping & Fabrication; Testing/Data Acquisition",
         "location": "Mississippi",
@@ -13,26 +77,6 @@
             "day": 16
         },
         "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002XvSz2AK",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: High Temperature Materials and Structures",
-        "description": "Students will assist with the development of high-temperature (T > 2000\u00b0F) materials and structures for hypersonic vehicles. The primary material systems of interest are carbon/carbon (C/C) and ceramic matrix composites (CMC). This is a multi-disciplinary effort involving heat transfer, aerodynamic heating, thermal and mechanical testing, environmental testing, coatings, and materials and structures, all focused toward the development of thermal protection systems and hot structures for hypersonic vehicles. The work may involve high-temperature testing in several different facilities, and possibly some numerical analysis. Especially interested in graduate students who want to come for several sessions during their graduate program (may initiate during undergraduate) to research topics in C/C and CMCs such as isotropy, fracture toughness, bearing strength, high temperature test methods, failure modes, active oxidation, etc.",
-        "location": "Virginia",
-        "mode": [
-            "in-person"
-        ],
-        "season": "fall",
-        "deadline": {
-            "year": 2025,
-            "month": 5,
-            "day": 16
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002czSj2AI",
         "opens_applications": "open",
         "grade_level": [
             12
@@ -56,6 +100,26 @@
         "opens_applications": "open",
         "grade_level": [
             11,
+            12
+        ],
+        "price": 0
+    },
+    {
+        "name": "NASA: High Temperature Materials and Structures",
+        "description": "Students will assist with the development of high-temperature (T > 2000\u00b0F) materials and structures for hypersonic vehicles. The primary material systems of interest are carbon/carbon (C/C) and ceramic matrix composites (CMC). This is a multi-disciplinary effort involving heat transfer, aerodynamic heating, thermal and mechanical testing, environmental testing, coatings, and materials and structures, all focused toward the development of thermal protection systems and hot structures for hypersonic vehicles. The work may involve high-temperature testing in several different facilities, and possibly some numerical analysis. Especially interested in graduate students who want to come for several sessions during their graduate program (may initiate during undergraduate) to research topics in C/C and CMCs such as isotropy, fracture toughness, bearing strength, high temperature test methods, failure modes, active oxidation, etc.",
+        "location": "Virginia",
+        "mode": [
+            "in-person"
+        ],
+        "season": "fall",
+        "deadline": {
+            "year": 2025,
+            "month": 5,
+            "day": 16
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002czSj2AI",
+        "opens_applications": "open",
+        "grade_level": [
             12
         ],
         "price": 0
@@ -95,26 +159,6 @@
             "day": 16
         },
         "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ000002pPeL2AU",
-        "opens_applications": "open",
-        "grade_level": [
-            12
-        ],
-        "price": 0
-    },
-    {
-        "name": "NASA: Data Analytics Summer 2025 Intern",
-        "description": "We are looking for a creative and motivated applicant to assist the Flight Demonstrations and Capabilities (FDC) Project Management team in collection, integration, and analysis of diverse data sets including but limited to technical, financial, and risk information. The Intern will create a data driven dashboard to provide insight on status of various project elements. Intern will assist in developing metrics to measure performance and quality of project execution. Through this experience, the intern will learn or improve on skills in the areas of data modeling and visualization, storytelling with data, and data driven decision making.\r\n\r\nTools such as Power BI and other tools can be used to integrate data from current schedules and budget related data sets to provide meaningful and actionable information. Most raw data will be in MS Project and MS Excel formats, located both on SharePoint and local PCs/OneDrive. The goal will be to link raw data to a dashboard data summary as well as automatically update MS PowerPoint slides so they are always up-to-date. It would be a bonus, if the intern could utilize Artificial Intelligence (AI) tools (such as ChatGPT GOV) to generate different levels of summaries and highlights based on email, teams, and other source information.  \r\n\r\nThe FDC Project is responsible for a variety of flight research projects, such as SCHAMROQ, which stands for Schlieren, Airborne Measurements, and Range Operations for Quiet SuperSonic Technology (Quesst), that will support X-59 flight activities. Additionally, the project supports a fleet of support aircraft, including 2 F-15s and 3 F-18s, and facilities that perform aircraft mechanical and thermal ground testing, aircraft simulators, and radar and optical tracking in support of flight activities.  \r\n\r\nCOMPUTER/SOFTWARE SKILLS: Excel (including the use and creation of pivot tables), PowerPoint, databases, Power BI, Project, Tableau (desired by not necessary), and Microsoft Office. \r\n\r\nOTHER SKILLS: Have good analytical skills. A good problem solver that is detailed oriented. Have a passion for data along with good communication skills. Self-starter. \r\n\r\n**This project is for full time (640) hours,",
-        "location": "California",
-        "mode": [
-            "in-person"
-        ],
-        "season": "fall",
-        "deadline": {
-            "year": 2025,
-            "month": 5,
-            "day": 16
-        },
-        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000035xnJ2AQ",
         "opens_applications": "open",
         "grade_level": [
             12
