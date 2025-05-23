@@ -7,4 +7,4 @@ If you find that an internship needs to be updated or removed, please help us ma
 ## Internship Opportunities
 | Name | Description | Location  | Mode | Season | Application Deadline | Application Opens | Eligible Grades | Cost |
 |------|-------------|:---------:|:----:|:------:|:--------------------:|:-----------------:|:---------------:|:----:|
-
+| [NASA: Aeronautics STEM Engagement Tool and Challenge Development](https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000039JJT2A2) | Educator or student will work with the STEM Engagement Embed to Aeronautics to help communicate, dev... | District of Columbia (D.C.) | In&#8209;person | Spring | 9/12/2025 | Open | 11, 12 | 0 |

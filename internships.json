@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "name": "NASA: Aeronautics STEM Engagement Tool and Challenge Development",
+        "description": "Educator or student will work with the STEM Engagement Embed to Aeronautics to help communicate, develop, and implement STEM Engagement student activities (K-16). This will include analysis of current activities both quantitatively and qualitatively. Student will assist mentor in idea generation and engineering tool development. Student will communicate with both the Office of STEM Engagement and the Aeronautics Research Mission Directorate to enhance collaboration and integration between projects.\r\n\r\nNASA\u2019s journeys have propelled technological breakthroughs, pushed the frontiers of scientific research, and expanded our understanding of the universe. These accomplishments, and those to come, share a common genesis: education in science, technology, engineering, and math. In NASA STEM Engagement, we deliver tools for students to learn and succeed. We seek to: \r\n\r\n*Create unique opportunities for students to contribute to NASA\u2019s work in exploration and discovery. \r\n\r\n*Build a future STEM workforce by engaging students in authentic learning experiences with NASA\u2019s people, content and facilities. \r\n\r\n*Attract students to STEM through learning opportunities that spark interest and provide connections to NASA\u2019s mission and work.",
+        "location": "District of Columbia (D.C.)",
+        "mode": [
+            "in-person"
+        ],
+        "season": "spring",
+        "deadline": {
+            "year": 2025,
+            "month": 9,
+            "day": 12
+        },
+        "link": "https://stemgateway.nasa.gov/s/course-offering/a0BSJ0000039JJT2A2",
+        "opens_applications": "open",
+        "grade_level": [
+            11,
+            12
+        ],
+        "price": 0
+    }
+]
